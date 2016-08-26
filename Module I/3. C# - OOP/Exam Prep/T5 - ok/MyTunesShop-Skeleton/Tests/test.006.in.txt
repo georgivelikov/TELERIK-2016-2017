@@ -1,0 +1,27 @@
+insert:performer;band;Sully Erna & Co.
+report:performer;band;Sully Erna & Co.
+insert:media;song;7 Years;0.98;Sully Erna;Rock;2010;8.40
+
+insert:media;album;Avalon;10.99;Sully Erna & Co.;Rock;2010
+
+insert:song_to_album;Avalon;7 Years
+
+insert:media;song;Until Then;0.99;Sully Erna & Co.;Rock;2010;5.09
+insert:song_to_album;Avalon;Until Then
+
+supply:album;Avalon;30
+sell:album;Avalon;10
+sell:album;Avalon;20
+
+report:media;album;Avalon
+
+rate:song;7 Years;5
+supply:song;7 Years;30
+sell:song;7 Years;10
+
+report:performer;band;Sully Erna & Co.
+report:media;song;7 Years
+
+insert:member_to_band;Sully Erna & Co.;Sully Erna
+report:performer;band;Sully Erna & Co.
+end

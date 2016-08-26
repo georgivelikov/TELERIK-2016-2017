@@ -1,0 +1,1 @@
+D:\TELERIK\1. C# - 1\5. Conditional Statements\Homework\Homework\Task08 - Digit as Word\bin\Debug\Task08 - Digit as Word.exe.config

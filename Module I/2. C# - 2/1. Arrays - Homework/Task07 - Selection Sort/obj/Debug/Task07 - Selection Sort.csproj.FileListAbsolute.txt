@@ -1,0 +1,6 @@
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task07 - Selection Sort\bin\Debug\Task07 - Selection Sort.exe.config
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task07 - Selection Sort\bin\Debug\Task07 - Selection Sort.exe
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task07 - Selection Sort\bin\Debug\Task07 - Selection Sort.pdb
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task07 - Selection Sort\obj\Debug\Task07 - Selection Sort.csprojResolveAssemblyReference.cache
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task07 - Selection Sort\obj\Debug\Task07 - Selection Sort.exe
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task07 - Selection Sort\obj\Debug\Task07 - Selection Sort.pdb

@@ -1,0 +1,75 @@
+Band Metallica added successfully
+Band Godsmack added successfully
+Band Nightwish added successfully
+The member James Hetfield has been added to the band Metallica.
+The member Lars Ulrich has been added to the band Metallica.
+The member Kirk Hammett has been added to the band Metallica.
+The member Robert Trujillo has been added to the band Metallica.
+The member Sully Erna has been added to the band Godsmack.
+The member Shannon Larkin has been added to the band Godsmack.
+The member Robbie Merrill has been added to the band Godsmack.
+The member Tony Rombola has been added to the band Godsmack.
+The member Tarja Turunen has been added to the band Nightwish.
+The member Tuomas Holopainen has been added to the band Nightwish.
+The member Erno Matti Juhani Vuorinen has been added to the band Nightwish.
+Nightwish: Tarja Turunen, Tuomas Holopainen, Erno Matti Juhani Vuorinen
+no songs
+Metallica: James Hetfield, Lars Ulrich, Kirk Hammett, Robert Trujillo
+no songs
+Godsmack: Sully Erna, Shannon Larkin, Robbie Merrill, Tony Rombola
+no songs
+Song Livin' In Sin by Godsmack added successfully
+Song Speak by Godsmack added successfully
+Song The Enemy by Godsmack added successfully
+Song Voodoo Too by Godsmack added successfully
+Song One Rainy Day by Godsmack added successfully
+Album IV by Godsmack added successfully
+The song Livin' In Sin has been added to the album IV.
+The song Speak has been added to the album IV.
+The song The Enemy has been added to the album IV.
+The song One Rainy Day has been added to the album IV.
+30 items of album IV successfully supplied.
+15 items of album IV successfully sold.
+35 items of song Speak successfully supplied.
+300 items of song The Enemy successfully supplied.
+24 items of song One Rainy Day successfully supplied.
+The rating has been placed successfully.
+The rating has been placed successfully.
+IV (2006) by Godsmack
+Genre: Hard Rock, Price: $15.99
+Supplies: 15, Sold: 15
+Songs:
+Livin' In Sin (4.39)
+Speak (3.57)
+The Enemy (4.07)
+One Rainy Day (7.21)
+Speak (2006) by Godsmack
+Genre: Hard Rock, Price: $2.99
+Rating: 5
+Supplies: 35, Sold: 0
+Song Fight Fire with Fire by Metallica added successfully
+Song Fade to Black by Metallica added successfully
+Song Escape by Metallica added successfully
+Song Creeping Death by Metallica added successfully
+58 items of song Fight Fire with Fire successfully supplied.
+47 items of song Escape successfully supplied.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The album does not exist in the database.
+The album does not exist in the database.
+Metallica: James Hetfield, Lars Ulrich, Kirk Hammett, Robert Trujillo
+Creeping Death; Escape; Fade to Black; Fight Fire with Fire
+Godsmack: Sully Erna, Shannon Larkin, Robbie Merrill, Tony Rombola
+Livin' In Sin; One Rainy Day; Speak; The Enemy; Voodoo Too
+Fight Fire with Fire (1984) by Metallica
+Genre: Thrash Metal, Price: $1.89
+Rating: 5
+Supplies: 58, Sold: 0
+Escape (1984) by Metallica
+Genre: Thrash Metal, Price: $1.88
+Rating: 5
+Supplies: 47, Sold: 0
+Speak (2006) by Godsmack
+Genre: Hard Rock, Price: $2.99
+Rating: 5
+Supplies: 35, Sold: 0

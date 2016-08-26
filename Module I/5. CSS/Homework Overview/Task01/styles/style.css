@@ -1,0 +1,56 @@
+table {
+	background-color: #595959;
+	width: 304px;
+	font-family: arial;
+}
+
+th {
+	color: #BBBBBB;
+	text-align: left;
+	font-weight: normal;
+	font-size: 16px;
+	vertical-align: middle;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+td {
+	font-size: 11px;
+	vertical-align: top;
+	text-align: left;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+div {
+	width: 9px;
+	height: 9px;
+	border-radius: 9px;
+	background-color: #71B47A;
+	display: inline-block;
+	margin-left: 1px;
+}
+
+.firstCol {
+	color: #FFFEFC;
+	font-style: italic;
+	width: 100px;
+}
+
+.goldColor {
+	color: #FFF0B0;
+}
+
+.greyColor {
+	color: #BBBBBB;
+}
+
+.orangeColor {
+	color: #E66642;
+	font-weight: 700;
+}
+.redColor {
+	color: #FD070B;
+	font-weight: 700;
+	margin-top: 5px;
+	display: block;
+}

@@ -1,0 +1,15 @@
+ul {
+	list-style-type: none;
+}
+.sublist {
+	display: none;	
+}
+#mainList li:hover span {
+	text-decoration: underline;
+}
+
+#mainList li:hover .sublist {
+	display: block;
+	color: grey;
+	padding-left: 5px;
+}

@@ -1,0 +1,6 @@
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task08 - Extract sentences\bin\Debug\Task08 - Extract sentences.exe.config
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task08 - Extract sentences\bin\Debug\Task08 - Extract sentences.exe
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task08 - Extract sentences\bin\Debug\Task08 - Extract sentences.pdb
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task08 - Extract sentences\obj\Debug\Task08 - Extract sentences.exe
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task08 - Extract sentences\obj\Debug\Task08 - Extract sentences.pdb
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task08 - Extract sentences\obj\Debug\Task08 - Extract sentences.csprojResolveAssemblyReference.cache

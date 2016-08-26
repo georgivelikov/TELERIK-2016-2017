@@ -1,0 +1,29 @@
+7 cats
+7 songs
+Cat 7 knows song 3
+Cat 1 knows song 5
+Cat 4 knows song 1
+Cat 6 knows song 4
+Cat 4 knows song 3
+Cat 7 knows song 2
+Cat 1 knows song 6
+Cat 3 knows song 4
+Cat 1 knows song 1
+Cat 6 knows song 3
+Cat 3 knows song 2
+Cat 7 knows song 1
+Cat 7 knows song 7
+Cat 4 knows song 5
+Cat 6 knows song 5
+Cat 1 knows song 4
+Cat 5 knows song 6
+Cat 7 knows song 5
+Cat 1 knows song 3
+Cat 5 knows song 1
+Cat 1 knows song 7
+Cat 2 knows song 7
+Cat 4 knows song 4
+Cat 3 knows song 7
+Cat 6 knows song 6
+Cat 3 knows song 1
+Mew!

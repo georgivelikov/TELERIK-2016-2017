@@ -1,0 +1,6 @@
+D:\TELERIK\3. C# - OOP\OOP - Homework 1\MobilePhones\bin\Debug\MobilePhones.exe.config
+D:\TELERIK\3. C# - OOP\OOP - Homework 1\MobilePhones\bin\Debug\MobilePhones.exe
+D:\TELERIK\3. C# - OOP\OOP - Homework 1\MobilePhones\bin\Debug\MobilePhones.pdb
+D:\TELERIK\3. C# - OOP\OOP - Homework 1\MobilePhones\obj\Debug\MobilePhones.csprojResolveAssemblyReference.cache
+D:\TELERIK\3. C# - OOP\OOP - Homework 1\MobilePhones\obj\Debug\MobilePhones.exe
+D:\TELERIK\3. C# - OOP\OOP - Homework 1\MobilePhones\obj\Debug\MobilePhones.pdb

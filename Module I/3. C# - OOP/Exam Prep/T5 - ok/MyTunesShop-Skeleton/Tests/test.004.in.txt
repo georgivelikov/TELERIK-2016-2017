@@ -1,0 +1,26 @@
+insert:performer;band;Metallica
+
+insert:member_to_band:Metallica:James Hetfield
+insert:member_to_band:Metallica:Lars Ulrich
+insert:member_to_band:Metallica:Kirk Hammett
+insert:member_to_band:Metallica:Robert Trujillo
+
+insert:performer;band;Godsmack
+
+insert:member_to_band:Godsmack:Sully Erna
+insert:member_to_band:Godsmack:Shannon Larkin
+insert:member_to_band:Godsmack:Robbie Merrill
+insert:member_to_band:Godsmack:Tony Rombola
+
+
+insert:performer;band;Nightwish
+report:performer;band;Nightwish
+
+insert:member_to_band:Nightwish;Tarja Turunen
+insert:member_to_band:Nightwish;Tuomas Holopainen
+insert:member_to_band:Nightwish;Erno Matti Juhani Vuorinen
+
+report:performer;band;Godsmack
+report:performer;band;Metallica
+report:performer;band;Nightwish
+end

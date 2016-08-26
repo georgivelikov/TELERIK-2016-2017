@@ -1,0 +1,6 @@
+C:\Users\gvelikov\Desktop\practice\2013 - 3\Var3 - 2013\Task04\bin\Debug\Task04.exe.config
+C:\Users\gvelikov\Desktop\practice\2013 - 3\Var3 - 2013\Task04\obj\Debug\Task04.csprojResolveAssemblyReference.cache
+C:\Users\gvelikov\Desktop\practice\2013 - 3\Var3 - 2013\Task04\bin\Debug\Task04.exe
+C:\Users\gvelikov\Desktop\practice\2013 - 3\Var3 - 2013\Task04\bin\Debug\Task04.pdb
+C:\Users\gvelikov\Desktop\practice\2013 - 3\Var3 - 2013\Task04\obj\Debug\Task04.exe
+C:\Users\gvelikov\Desktop\practice\2013 - 3\Var3 - 2013\Task04\obj\Debug\Task04.pdb

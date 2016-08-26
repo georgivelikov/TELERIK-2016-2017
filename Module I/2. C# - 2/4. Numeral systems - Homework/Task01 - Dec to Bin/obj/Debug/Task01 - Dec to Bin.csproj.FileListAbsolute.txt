@@ -1,0 +1,9 @@
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task01 - Dec to Bin\bin\Debug\Task01 - Dec to Bin.exe.config
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task01 - Dec to Bin\bin\Debug\Task01 - Dec to Bin.exe
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task01 - Dec to Bin\bin\Debug\Task01 - Dec to Bin.pdb
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task01 - Dec to Bin\obj\Debug\Task01 - Dec to Bin.csprojResolveAssemblyReference.cache
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task01 - Dec to Bin\obj\Debug\Task01 - Dec to Bin.exe
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task01 - Dec to Bin\obj\Debug\Task01 - Dec to Bin.pdb
+D:\TELERIK\2. C# - 2\4. Numeral systems - Homework\Task01 - Dec to Bin\bin\Debug\Task01 - Dec to Bin.exe.config
+D:\TELERIK\2. C# - 2\4. Numeral systems - Homework\Task01 - Dec to Bin\obj\Debug\Task01 - Dec to Bin.exe
+D:\TELERIK\2. C# - 2\4. Numeral systems - Homework\Task01 - Dec to Bin\obj\Debug\Task01 - Dec to Bin.pdb

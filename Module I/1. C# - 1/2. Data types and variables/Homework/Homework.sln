@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 07 - Quotes in Strings", "Task 07 - Quotes in Strings\Task 07 - Quotes in Strings.csproj", "{8254F981-A2EE-4E2B-B222-F16319750EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 13 - Comparing Floats", "Task 13 - Comparing Floats\Task 13 - Comparing Floats.csproj", "{EBA5B33E-06A9-4624-9FEC-11583AD3E3E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 14 - Print the ASCII", "Task 14 - Print the ASCII\Task 14 - Print the ASCII.csproj", "{ACD5A49B-97CB-47DC-910A-24BCB014AB40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8254F981-A2EE-4E2B-B222-F16319750EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8254F981-A2EE-4E2B-B222-F16319750EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8254F981-A2EE-4E2B-B222-F16319750EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8254F981-A2EE-4E2B-B222-F16319750EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA5B33E-06A9-4624-9FEC-11583AD3E3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA5B33E-06A9-4624-9FEC-11583AD3E3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA5B33E-06A9-4624-9FEC-11583AD3E3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA5B33E-06A9-4624-9FEC-11583AD3E3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD5A49B-97CB-47DC-910A-24BCB014AB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD5A49B-97CB-47DC-910A-24BCB014AB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD5A49B-97CB-47DC-910A-24BCB014AB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD5A49B-97CB-47DC-910A-24BCB014AB40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

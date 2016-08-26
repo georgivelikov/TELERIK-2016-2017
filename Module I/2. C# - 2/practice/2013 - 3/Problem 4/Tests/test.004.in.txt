@@ -1,0 +1,6 @@
+5
+<rev>backwards</rev> <upper>uppercase</upper>
+<lower>lowerCAse</lower>
+and some plain text
+and some more
+and a <toggle>toGGleCaSE</toggle>

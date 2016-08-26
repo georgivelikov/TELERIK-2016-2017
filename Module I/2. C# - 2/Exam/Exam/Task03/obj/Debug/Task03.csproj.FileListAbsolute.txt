@@ -1,0 +1,9 @@
+C:\Users\gvelikov\Desktop\Exam\Exam\Task03\bin\Debug\Task03.exe.config
+C:\Users\gvelikov\Desktop\Exam\Exam\Task03\bin\Debug\Task03.exe
+C:\Users\gvelikov\Desktop\Exam\Exam\Task03\bin\Debug\Task03.pdb
+C:\Users\gvelikov\Desktop\Exam\Exam\Task03\obj\Debug\Task03.csprojResolveAssemblyReference.cache
+C:\Users\gvelikov\Desktop\Exam\Exam\Task03\obj\Debug\Task03.exe
+C:\Users\gvelikov\Desktop\Exam\Exam\Task03\obj\Debug\Task03.pdb
+D:\TELERIK\2. C# - 2\Exam\Exam\Task03\bin\Debug\Task03.exe.config
+D:\TELERIK\2. C# - 2\Exam\Exam\Task03\obj\Debug\Task03.exe
+D:\TELERIK\2. C# - 2\Exam\Exam\Task03\obj\Debug\Task03.pdb

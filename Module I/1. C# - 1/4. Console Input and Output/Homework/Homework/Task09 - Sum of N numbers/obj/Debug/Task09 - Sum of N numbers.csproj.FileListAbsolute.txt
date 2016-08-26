@@ -1,0 +1,1 @@
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task09 - Sum of N numbers\bin\Debug\Task09 - Sum of N numbers.exe.config

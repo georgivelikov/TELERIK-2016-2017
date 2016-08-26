@@ -1,0 +1,6 @@
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\Task02 - Maximal Sum\bin\Debug\Task02 - Maximal Sum.exe.config
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\Task02 - Maximal Sum\bin\Debug\Task02 - Maximal Sum.exe
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\Task02 - Maximal Sum\bin\Debug\Task02 - Maximal Sum.pdb
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\Task02 - Maximal Sum\obj\Debug\Task02 - Maximal Sum.csprojResolveAssemblyReference.cache
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\Task02 - Maximal Sum\obj\Debug\Task02 - Maximal Sum.exe
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\Task02 - Maximal Sum\obj\Debug\Task02 - Maximal Sum.pdb

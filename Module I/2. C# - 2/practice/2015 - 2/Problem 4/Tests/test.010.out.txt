@@ -1,0 +1,3 @@
+Methods -> 7 -> currentCagestring, counter, counter, firstCage, sum, product, symbol
+Loops -> 4 -> number, i, i, i
+Conditional Statements -> None

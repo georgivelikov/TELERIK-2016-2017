@@ -1,0 +1,6 @@
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task06 - Quadratic Equation\bin\Debug\Task06 - Quadratic Equation.exe.config
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task06 - Quadratic Equation\bin\Debug\Task06 - Quadratic Equation.exe
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task06 - Quadratic Equation\bin\Debug\Task06 - Quadratic Equation.pdb
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task06 - Quadratic Equation\obj\Debug\Task06 - Quadratic Equation.csprojResolveAssemblyReference.cache
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task06 - Quadratic Equation\obj\Debug\Task06 - Quadratic Equation.exe
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task06 - Quadratic Equation\obj\Debug\Task06 - Quadratic Equation.pdb

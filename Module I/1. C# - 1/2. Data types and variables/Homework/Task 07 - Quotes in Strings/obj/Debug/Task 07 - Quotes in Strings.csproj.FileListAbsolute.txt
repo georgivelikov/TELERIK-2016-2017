@@ -1,0 +1,1 @@
+D:\TELERIK\1. C# - 1\2. Data types and variables\Homework\Task 07 - Quotes in Strings\bin\Debug\Task 07 - Quotes in Strings.exe.config

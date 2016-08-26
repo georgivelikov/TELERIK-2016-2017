@@ -1,0 +1,6 @@
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task06 - String length\bin\Debug\Task06 - String length.exe.config
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task06 - String length\bin\Debug\Task06 - String length.exe
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task06 - String length\bin\Debug\Task06 - String length.pdb
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task06 - String length\obj\Debug\Task06 - String length.csprojResolveAssemblyReference.cache
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task06 - String length\obj\Debug\Task06 - String length.exe
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task06 - String length\obj\Debug\Task06 - String length.pdb

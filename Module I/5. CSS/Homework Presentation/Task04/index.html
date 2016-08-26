@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>index</title>
+	<link rel="stylesheet" type="text/css" href="styles/styles.css">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="calculator">
+			<img src="images/calc.png" alt="calc">
+			<span>Calculator</span>
+		</div>
+		<div id="topButtons">
+			<button id="button1">				
+			</button>
+			<button id="button2">	
+			</button>
+			<button id="button3">
+			</button>
+		</div>
+		<div id="body">
+			<div id="bodyMenu">
+				<nav>
+					<ul>
+						<li>
+							<span>V</span>iew
+						</li>
+						<li>
+							<span>E</span>dit
+						</li>
+						<li>
+							<span>H</span>elp
+						</li>
+					</ul>
+				</nav>
+			</div>
+			<div id="bodyMain">
+				<div id="display">
+					<span>
+						8854455
+					</span>
+				</div>
+				<div id="numerals">
+					<table>
+						<tr class="binaryRow">
+							<td>0000</td>
+							<td>0000</td>
+							<td>0000</td>
+							<td>0000</td>
+							<td>0000</td>
+							<td>0000</td>
+							<td>0000</td>
+							<td>0000</td>
+						</tr>
+						<tr class="decimalRow">
+							<td>63</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td>47</td>
+							<td></td>
+							<td></td>
+							<td class="lastTd">32</td>
+						</tr>
+						<tr class="binaryRow">
+							<td>0000</td>
+							<td>0000</td>
+							<td>1000</td>
+							<td>0111</td>
+							<td>0001</td>
+							<td>1011</td>
+							<td>1011</td>
+							<td>0111</td>
+						</tr>
+						<tr class="decimalRow">
+							<td>31</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td>15</td>
+							<td></td>
+							<td></td>
+							<td class="lastTd">0</td>
+						</tr>
+					</table>
+				</div>
+				<div class="asideForm" id="asideForm1">
+					<div>
+						<input type="radio" name="numeralSystem" id="hex"></input>
+						<label for="hex">Hex</label>					
+					</div>					
+					<div>
+						<input type="radio" name="numeralSystem" id="dec" checked></input>
+						<label for="dec">Dec</label>
+					</div>
+					<div>
+						<input type="radio" name="numeralSystem" id="oct"></input>
+						<label for="oct">Oct</label>
+					</div>
+					<div>
+						<input type="radio" name="numeralSystem" id="bin"></input>
+						<label for="bin">Bin</label>
+					</div>
+				</div>
+				<div class="asideForm" id="asideForm2">
+					<div>
+						<input type="radio" name="words" id="qword" checked></input>
+						<label for="hex">Qword</label>					
+					</div>					
+					<div>
+						<input type="radio" name="words" id="dword"></input>
+						<label for="dec">Dword</label>
+					</div>
+					<div>
+						<input type="radio" name="words" id="word"></input>
+						<label for="oct">Word</label>
+					</div>
+					<div>
+						<input type="radio" name="words" id="byte"></input>
+						<label for="bin">Byte</label>
+					</div>
+				</div>
+				<div id="buttons">
+					<table>
+						<tr>
+							<td><button></button></td>
+							<td><button class="light">Mod</button></td>
+							<td><button class="big">A</button></td>
+							<td><button>MC</button></td>
+							<td><button>MR</button></td>
+							<td><button>MS</button></td>
+							<td><button>M+</button></td>
+							<td><button>M-</button></td>
+						</tr>
+						<tr>
+							<td><button class="light">(</button></td>
+							<td><button class="light">)</button></td>
+							<td><button class="big">B</button></td>
+							<td><button class="light" id="arrow">&larr;</button></td>
+							<td><button id="selected">CE</button></td>
+							<td><button class="dark">C</button></td>
+							<td><button class="dark">&plusmn;</button></td>
+							<td><button>&radic;</button></td>
+						</tr>
+						<tr>
+							<td><button>RoL</button></td>
+							<td><button>RoR</button></td>
+							<td><button class="big">C</button></td>
+							<td><button class="big light">7</button></td>
+							<td><button class="big light">8</button></td>
+							<td><button class="big light">9</button></td>
+							<td><button class="dark">/</button></td>
+							<td><button>%</button></td>
+						</tr>
+						<tr>
+							<td><button class="light">Or</button></td>
+							<td><button class="light">Xor</button></td>
+							<td><button class="big">D</button></td>
+							<td><button class="big light">4</button></td>
+							<td><button class="big light">5</button></td>
+							<td><button class="big light">6</button></td>
+							<td><button class="dark">*</button></td>
+							<td><button >1/x</button></td>
+						</tr>
+						<tr>
+							<td><button class="light">Lsh</button></td>
+							<td><button class="light">Rsh</button></td>
+							<td><button class="big">E</button></td>
+							<td><button class="big light">1</button></td>
+							<td><button class="big light">2</button></td>
+							<td><button class="big light">3</button></td>
+							<td><button class="dark">-</button></td>
+							<td rowspan="2" id="tdEquals"><button id="equals" class="dark">=</button></td>
+						</tr>
+						<tr>
+							<td><button class="light">Not</button></td>
+							<td><button class="light">And</button></td>
+							<td><button class="big">F</button></td>
+							<td colspan="2" id="tdZero"><button id="zero" class="light">0</button></td>
+							<td><button class="dark">.</button></td>
+							<td><button class="dark">+</button></td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

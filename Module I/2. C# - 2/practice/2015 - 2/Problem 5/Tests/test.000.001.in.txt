@@ -1,0 +1,7 @@
+3 cats
+2 songs
+Cat 2 knows song 2
+Cat 1 knows song 1
+Cat 3 knows song 1
+Cat 2 knows song 1
+Mew!

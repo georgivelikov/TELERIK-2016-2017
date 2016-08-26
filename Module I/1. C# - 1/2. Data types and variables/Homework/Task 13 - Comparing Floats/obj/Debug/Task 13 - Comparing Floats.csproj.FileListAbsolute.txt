@@ -1,0 +1,6 @@
+D:\TELERIK\1. C# - 1\2. Data types and variables\Homework\Task 13 - Comparing Floats\bin\Debug\Task 13 - Comparing Floats.exe.config
+D:\TELERIK\1. C# - 1\2. Data types and variables\Homework\Task 13 - Comparing Floats\bin\Debug\Task 13 - Comparing Floats.exe
+D:\TELERIK\1. C# - 1\2. Data types and variables\Homework\Task 13 - Comparing Floats\bin\Debug\Task 13 - Comparing Floats.pdb
+D:\TELERIK\1. C# - 1\2. Data types and variables\Homework\Task 13 - Comparing Floats\obj\Debug\Task 13 - Comparing Floats.csprojResolveAssemblyReference.cache
+D:\TELERIK\1. C# - 1\2. Data types and variables\Homework\Task 13 - Comparing Floats\obj\Debug\Task 13 - Comparing Floats.exe
+D:\TELERIK\1. C# - 1\2. Data types and variables\Homework\Task 13 - Comparing Floats\obj\Debug\Task 13 - Comparing Floats.pdb

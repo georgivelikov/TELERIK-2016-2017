@@ -1,0 +1,1 @@
+D:\TELERIK\1. C# - 1\5. Conditional Statements\Homework\Homework\Task06 - BiggestOfFive\bin\Debug\Task06 - BiggestOfFive.exe.config

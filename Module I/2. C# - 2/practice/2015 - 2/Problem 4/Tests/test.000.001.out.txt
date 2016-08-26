@@ -1,0 +1,3 @@
+Methods -> 6 -> row, col, digit, number, n, sum
+Loops -> 8 -> i, j, i, j, row, col, pattern, anotherNumber
+Conditional Statements -> 2 -> letter, someNumber

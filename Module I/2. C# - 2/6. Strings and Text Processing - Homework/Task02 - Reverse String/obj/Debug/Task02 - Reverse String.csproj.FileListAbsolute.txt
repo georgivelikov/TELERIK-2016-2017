@@ -1,0 +1,1 @@
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task02 - Reverse String\bin\Debug\Task02 - Reverse String.exe.config

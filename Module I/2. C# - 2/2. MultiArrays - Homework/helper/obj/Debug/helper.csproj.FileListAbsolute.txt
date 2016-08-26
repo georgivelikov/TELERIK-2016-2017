@@ -1,0 +1,8 @@
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\helper\bin\Debug\helper.exe.config
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\helper\bin\Debug\helper.exe
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\helper\bin\Debug\helper.pdb
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\helper\obj\Debug\helper.csprojResolveAssemblyReference.cache
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\helper\obj\Debug\helper.exe
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\helper\obj\Debug\helper.pdb
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\helper\bin\Debug\PowerCollections.dll
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\helper\bin\Debug\PowerCollections.xml

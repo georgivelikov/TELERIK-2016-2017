@@ -1,0 +1,25 @@
+22 cats
+9 songs
+Cat 5 knows song 5
+Cat 6 knows song 7
+Cat 8 knows song 6
+Cat 1 knows song 3
+Cat 22 knows song 2
+Cat 7 knows song 2
+Cat 11 knows song 3
+Cat 17 knows song 7
+Cat 14 knows song 2
+Cat 4 knows song 3
+Cat 3 knows song 6
+Cat 10 knows song 3
+Cat 15 knows song 5
+Cat 13 knows song 5
+Cat 19 knows song 5
+Cat 21 knows song 5
+Cat 9 knows song 4
+Cat 2 knows song 2
+Cat 16 knows song 2
+Cat 18 knows song 4
+Cat 20 knows song 3
+Cat 12 knows song 8
+Mew!

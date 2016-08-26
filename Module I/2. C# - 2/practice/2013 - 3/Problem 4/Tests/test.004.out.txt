@@ -1,0 +1,5 @@
+sdrawkcab UPPERCASE
+lowercase
+and some plain text
+and some more
+and a TOggLEcAse

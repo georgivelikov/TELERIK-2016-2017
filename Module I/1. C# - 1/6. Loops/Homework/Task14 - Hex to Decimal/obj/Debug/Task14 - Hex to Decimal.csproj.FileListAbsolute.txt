@@ -1,0 +1,5 @@
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task14 - Hex to Decimal\bin\Debug\Task14 - Hex to Decimal.exe.config
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task14 - Hex to Decimal\bin\Debug\Task14 - Hex to Decimal.exe
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task14 - Hex to Decimal\bin\Debug\Task14 - Hex to Decimal.pdb
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task14 - Hex to Decimal\obj\Debug\Task14 - Hex to Decimal.exe
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task14 - Hex to Decimal\obj\Debug\Task14 - Hex to Decimal.pdb

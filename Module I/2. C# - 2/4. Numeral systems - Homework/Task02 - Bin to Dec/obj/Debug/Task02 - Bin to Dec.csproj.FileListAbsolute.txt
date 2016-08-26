@@ -1,0 +1,5 @@
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task02 - Bin to Dec\bin\Debug\Task02 - Bin to Dec.exe.config
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task02 - Bin to Dec\bin\Debug\Task02 - Bin to Dec.exe
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task02 - Bin to Dec\bin\Debug\Task02 - Bin to Dec.pdb
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task02 - Bin to Dec\obj\Debug\Task02 - Bin to Dec.exe
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task02 - Bin to Dec\obj\Debug\Task02 - Bin to Dec.pdb

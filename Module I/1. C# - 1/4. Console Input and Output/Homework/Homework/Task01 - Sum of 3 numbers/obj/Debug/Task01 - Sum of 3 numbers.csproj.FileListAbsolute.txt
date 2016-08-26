@@ -1,0 +1,1 @@
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task01 - Sum of 3 numbers\bin\Debug\Task01 - Sum of 3 numbers.exe.config

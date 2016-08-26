@@ -1,0 +1,1 @@
+D:\TELERIK\1. C# - 1\1. Intro to programming\Homework\Homework\Task04 - Hello CSharp\bin\Debug\Task04 - Hello CSharp.exe.config

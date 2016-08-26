@@ -1,0 +1,100 @@
+insert:performer;band;Metallica
+insert:performer;band;Godsmack
+insert:performer;band;Nightwish
+
+insert:member_to_band:Metallica:James Hetfield
+insert:member_to_band:Metallica:Lars Ulrich
+insert:member_to_band:Metallica:Kirk Hammett
+insert:member_to_band:Metallica:Robert Trujillo
+
+insert:member_to_band:Godsmack:Sully Erna
+insert:member_to_band:Godsmack:Shannon Larkin
+insert:member_to_band:Godsmack:Robbie Merrill
+insert:member_to_band:Godsmack:Tony Rombola
+
+
+insert:member_to_band:Nightwish;Tarja Turunen
+insert:member_to_band:Nightwish;Tuomas Holopainen
+insert:member_to_band:Nightwish;Erno Matti Juhani Vuorinen
+
+report:performer;band;Nightwish
+report:performer;band;Metallica
+report:performer;band;Godsmack
+
+insert:media;song;Livin' In Sin;1.99;Godsmack;Hard Rock;2006;4.39
+insert:media;song;Speak;2.99;Godsmack;Hard Rock;2006;3.57
+insert:media;song;The Enemy;0.999;Godsmack;Hard Rock;2006;4.07
+insert:media;song;Voodoo Too;0.98;Godsmack;Hard Rock;2006;5.26
+insert:media;song;One Rainy Day;1.39;Godsmack;Hard Rock;2006;7.21
+
+insert:media;album;IV;15.99;Godsmack;Hard Rock;2006
+
+insert:song_to_album;IV;Livin' In Sin
+insert:song_to_album;IV;Speak
+insert:song_to_album;IV;The Enemy
+insert:song_to_album;IV;One Rainy Day
+
+supply:album;IV;30
+sell:album;IV;15
+report:media:album:IV
+
+supply:song;Speak;35
+supply:song;The Enemy;300
+supply:song;One Rainy Day;24
+supply:song;Voodoo Too;15
+
+sell:song;Speak;15
+sell:song;The Enemy;3
+sell:song;One Rainy Day;18
+sell:song;Voodoo Too;2
+
+rate:song;Speak;5
+rate:song;Speak;5
+
+report:media;album;IV
+report:media;song;Speak
+
+insert:media;song;Fight Fire with Fire;1.89;Metallica;Thrash Metal;1984;6.36
+insert:media;song;Fade to Black;1.34;Metallica;Thrash Metal;1984;6.57
+insert:media;song;Escape;1.88;Metallica;Thrash Metal;1984;4.23
+insert:media;song;Creeping Death;1.98;Metallica;Thrash Metal;1984;6.36
+
+supply:song;Fight Fire with Fire;58
+supply:song;Escape;47
+rate:song;Escape;5
+rate:song;Escape;5
+rate:song;Fight Fire with Fire;5
+
+insert:song_to_album;Ride the Lightning;Fight Fire with Fire
+insert:song_to_album;Ride the Lightning;Fade to Black
+
+report:performer;band;Metallica
+report:performer;band;Godsmack
+
+report:media;song;Fight Fire with Fire
+report:media;song;Escape
+report:media;song;Speak
+
+report:media:album:Ride The Lightning
+supply:album;Ride The Lightning;47
+sell:album;Ride The Lightning;4
+
+report:media:album:Ride The Lightning
+
+insert:performer;singer;Sully Erna
+
+insert:media;song;Until Then;0.99;Sully Erna;Rock;2010;5.09
+report:media;song;Until Then
+supply:song;Until Then;50
+sell:song;Until Then;20
+
+report:media;song;Until Then
+
+report:performer;singer;Sully Erna
+report:media:album:Ride The Lightning
+report:media:song:Creeping Death
+report:media:song:Speak
+report:media:album:Fade to Black
+report:media:song:One Rainy Day
+report:media:album:Voodoo Too
+end

@@ -1,0 +1,6 @@
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task17 - Spiral Matrix\bin\Debug\Task17 - Spiral Matrix.exe.config
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task17 - Spiral Matrix\bin\Debug\Task17 - Spiral Matrix.exe
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task17 - Spiral Matrix\bin\Debug\Task17 - Spiral Matrix.pdb
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task17 - Spiral Matrix\obj\Debug\Task17 - Spiral Matrix.csprojResolveAssemblyReference.cache
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task17 - Spiral Matrix\obj\Debug\Task17 - Spiral Matrix.exe
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task17 - Spiral Matrix\obj\Debug\Task17 - Spiral Matrix.pdb

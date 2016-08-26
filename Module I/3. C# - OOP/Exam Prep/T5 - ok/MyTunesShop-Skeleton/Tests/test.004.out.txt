@@ -1,0 +1,22 @@
+Band Metallica added successfully
+The member James Hetfield has been added to the band Metallica.
+The member Lars Ulrich has been added to the band Metallica.
+The member Kirk Hammett has been added to the band Metallica.
+The member Robert Trujillo has been added to the band Metallica.
+Band Godsmack added successfully
+The member Sully Erna has been added to the band Godsmack.
+The member Shannon Larkin has been added to the band Godsmack.
+The member Robbie Merrill has been added to the band Godsmack.
+The member Tony Rombola has been added to the band Godsmack.
+Band Nightwish added successfully
+Nightwish: 
+no songs
+The member Tarja Turunen has been added to the band Nightwish.
+The member Tuomas Holopainen has been added to the band Nightwish.
+The member Erno Matti Juhani Vuorinen has been added to the band Nightwish.
+Godsmack: Sully Erna, Shannon Larkin, Robbie Merrill, Tony Rombola
+no songs
+Metallica: James Hetfield, Lars Ulrich, Kirk Hammett, Robert Trujillo
+no songs
+Nightwish: Tarja Turunen, Tuomas Holopainen, Erno Matti Juhani Vuorinen
+no songs

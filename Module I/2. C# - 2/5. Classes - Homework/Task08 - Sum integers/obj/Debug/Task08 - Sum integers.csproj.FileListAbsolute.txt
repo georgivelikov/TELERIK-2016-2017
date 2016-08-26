@@ -1,0 +1,1 @@
+D:\TELERIK\2. C# - 2\5. Classes - Homework\Task08 - Sum integers\bin\Debug\Task08 - Sum integers.exe.config

@@ -1,0 +1,7 @@
+Band Metallica added successfully
+The member James Hetfield has been added to the band Metallica.
+The member Lars Ulrich has been added to the band Metallica.
+The member Kirk Hammett has been added to the band Metallica.
+The member Robert Trujillo has been added to the band Metallica.
+Metallica: James Hetfield, Lars Ulrich, Kirk Hammett, Robert Trujillo
+no songs

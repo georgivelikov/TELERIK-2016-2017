@@ -1,0 +1,2 @@
+1
+some plain text and a <rev>rev going to a new line</rev> with also an <upper>uppercaseon a new line</upper> and a <toggle>tOGGLECASEon a new line</toggle> plus a <lower>lower with <upper>upper</upper> nested</lower> and a <del>del on a new line</del> which you don't see cause it's deleted

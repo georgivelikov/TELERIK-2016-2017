@@ -1,0 +1,1 @@
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task03 - Correct brackets\bin\Debug\Task03 - Correct brackets.exe.config

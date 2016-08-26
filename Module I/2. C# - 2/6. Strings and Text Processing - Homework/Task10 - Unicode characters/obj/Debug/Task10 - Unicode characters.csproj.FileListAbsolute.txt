@@ -1,0 +1,5 @@
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task10 - Unicode characters\bin\Debug\Task10 - Unicode characters.exe.config
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task10 - Unicode characters\bin\Debug\Task10 - Unicode characters.exe
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task10 - Unicode characters\bin\Debug\Task10 - Unicode characters.pdb
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task10 - Unicode characters\obj\Debug\Task10 - Unicode characters.exe
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task10 - Unicode characters\obj\Debug\Task10 - Unicode characters.pdb

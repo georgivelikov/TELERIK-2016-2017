@@ -1,0 +1,8 @@
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task15 - Replace tags\bin\Debug\Task15 - Replace tags.exe.config
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task15 - Replace tags\bin\Debug\Task15 - Replace tags.exe
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task15 - Replace tags\bin\Debug\Task15 - Replace tags.pdb
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task15 - Replace tags\obj\Debug\Task15 - Replace tags.csprojResolveAssemblyReference.cache
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task15 - Replace tags\obj\Debug\Task15 - Replace tags.exe
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task15 - Replace tags\obj\Debug\Task15 - Replace tags.pdb
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task15 - Replace tags\bin\Debug\PowerCollections.dll
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task15 - Replace tags\bin\Debug\PowerCollections.xml

@@ -1,0 +1,9 @@
+If youre a developer you probably dont need to read this part.
+Otherwise has stopped working messages are DEREGGIRT by what is called an unhandled exception.
+EXCEPTIONS ARE WAYS FOR PROGRAMS
+(and parts of them) to
+report
+errors. elpmaxe
+roF no more ksid-drah space no access rights not enough RAM
+are typical problems reported through EXCEPTIONS. When a part of a program encounters such a
+problem it THROWS an exception

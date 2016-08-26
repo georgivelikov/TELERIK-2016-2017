@@ -1,0 +1,20 @@
+insert:performer;singer;James Hetfield
+report:performer;singer;James Hetfield
+insert:performer;singer;Sully Erna
+report:performer;singer;Sully Erna
+
+insert:media;song;Until Then;0.99;Sully Erna;Hard Rock;2010;5.10
+supply:song;Until Then;50
+sell:song;Until Then;20
+supply:song;Until Then;10
+sell:song;Until Then;1
+supply:song;Until Then;1
+sell:song;Until Then;20
+
+report:media;song;Until Then
+rate:song;Until Then;5
+rate:song;Until Then;4
+rate:song;Until Then;5
+
+report:media;song;Until Then
+end

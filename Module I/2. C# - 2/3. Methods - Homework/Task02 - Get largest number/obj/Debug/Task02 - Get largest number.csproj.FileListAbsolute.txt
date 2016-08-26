@@ -1,0 +1,1 @@
+D:\TELERIK\2. C# - 2\3. Methods - Homework\Task02 - Get largest number\bin\Debug\Task02 - Get largest number.exe.config

@@ -1,0 +1,43 @@
+table {
+	border-collapse: collapse;
+	width: 456px;
+	font-family: arial;
+}
+
+td, th {
+	border-width: 1px;
+	border-color: #C8C6B0;
+	border-style: solid;
+	font-size: 12px;
+	font-weight: normal;
+	padding: 4px;
+	text-align: left;
+}
+
+th {
+	background-color: #56B906;
+	color: #FFFFFF;
+}
+div {
+	display: inline;
+}
+img {
+	vertical-align: middle;
+}
+
+tr:nth-child(2n+1) {
+	background-color: #ECECD8
+}
+
+td:nth-child(1){
+	width: 30.5%;
+}
+td:nth-child(2){
+	width: 24%;
+}
+td:nth-child(3){
+	width: 27.5%;
+}
+td:nth-child(4){
+	width: 18%;
+}

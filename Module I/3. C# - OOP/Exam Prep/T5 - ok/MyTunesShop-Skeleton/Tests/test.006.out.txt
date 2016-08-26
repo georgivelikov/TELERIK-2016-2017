@@ -1,0 +1,25 @@
+Band Sully Erna & Co. added successfully
+Sully Erna & Co.: 
+no songs
+The performer does not exist in the database.
+Album Avalon by Sully Erna & Co. added successfully
+The song does not exist in the database.
+Song Until Then by Sully Erna & Co. added successfully
+The song Until Then has been added to the album Avalon.
+30 items of album Avalon successfully supplied.
+10 items of album Avalon successfully sold.
+20 items of album Avalon successfully sold.
+Avalon (2010) by Sully Erna & Co.
+Genre: Rock, Price: $10.99
+Supplies: 0, Sold: 30
+Songs:
+Until Then (5.09)
+The song does not exist in the database.
+The song does not exist in the database.
+The song does not exist in the database.
+Sully Erna & Co.: 
+Until Then
+The song does not exist in the database.
+The member Sully Erna has been added to the band Sully Erna & Co..
+Sully Erna & Co.: Sully Erna
+Until Then

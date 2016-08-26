@@ -1,0 +1,418 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"cel",
+				"cellspacing	Attr"
+			],
+			[
+				"marig",
+				"margin-left"
+			],
+			[
+				"spac",
+				"border-spacing"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"top",
+				"border-top-right-radius"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"t",
+				"tfoot	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"text-st",
+				"text-decoration-style"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"w",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/TELERIK/5. CSS/Homework Overview/Task02",
+		"/D/TELERIK/5. CSS/Homework Overview/Task02/styles",
+		"/D/TELERIK/5. CSS/Homework Overview/Task03",
+		"/D/TELERIK/5. CSS/Homework Overview/Task03/styles"
+	],
+	"file_history":
+	[
+		"/C/Users/gvelikov/Desktop/homeworks/css essentials/Forum-posts.html",
+		"/C/Users/gvelikov/Desktop/homeworks/Forum Posts.css",
+		"/C/Users/gvelikov/Desktop/homeworks/Forum Posts.html",
+		"/D/TELERIK/5. CSS/Homework Overview/Task03/index.html",
+		"/D/TELERIK/5. CSS/Homework Overview/Task03/styles/style.css",
+		"/D/TELERIK/5. CSS/Homework Overview/Task02/index.html",
+		"/C/Users/gvelikov/Desktop/HW_georgivelikov_CSS-Basics---selektori-stilove-klasove_2015-05-03_19-09/Homework CSS Basics/Problem 3. Forum Posts/Problem 3. Forum Posts/Forum posts.html",
+		"/D/TELERIK/5. CSS/Homework Overview/Task02/styles/style.css",
+		"/D/TELERIK/5. CSS/Homework Overview/Task01/styles/style.css",
+		"/D/TELERIK/5. CSS/Homework Overview/Task01/index.html",
+		"/D/TELERIK/4. HTML/Homework 03 HTML/Task03 Notebook Store/index.html",
+		"/D/TELERIK/4. HTML/Homework 03 HTML/Task01 Registration Form/index.html",
+		"/D/TELERIK/4. HTML/Homework 01 HTML/Task01/index.html",
+		"/C/Users/gvelikov/Desktop/homeworks/HW_Semantichen-HTML/04.SemanticHTML/Refactoring.html",
+		"/C/Users/gvelikov/Desktop/homeworks/HW_Semantichen-HTML/04.SemanticHTML/LinkedIn.html",
+		"/C/Users/gvelikov/Desktop/homeworks/HW_Semantichen-HTML/04.SemanticHTML/StudentSystem.html",
+		"/D/TELERIK/4. HTML/Homework 04 HTML/Task02 - Student System/img/logo.png",
+		"/D/TELERIK/4. HTML/Homework 04 HTML/Task02 - Student System/index.html",
+		"/D/TELERIK/4. HTML/Homework 04 HTML/Task03 - LinkedIn/index.html",
+		"/C/Users/gvelikov/Desktop/homeworks/homework - HTML Semantics/refactiori.html",
+		"/C/Users/gvelikov/Desktop/homeworks/4. Semantic HTML/Problem 2. Student System/index.html",
+		"/C/Users/gvelikov/Desktop/homeworks/homework - HTML Semantics/LinkedIn.html",
+		"/C/Users/gvelikov/Desktop/homeworks/4. Semantic HTML/Problem 3. LinkedIn/index.html",
+		"/C/Users/gvelikov/Desktop/homeworks/4. Semantic HTML/Problem 1. Refactoring/index.html",
+		"/C/Users/gvelikov/Desktop/homeworks/homework - HTML Semantics/02_SimpleSemanticPage.html",
+		"/D/TELERIK/4. HTML/Homework 04 HTML/Task01 - Refactoring/index.html",
+		"/D/TELERIK 2015/4. HTML/6. Семантичен HTML/HTML Semantic Homework/Problem 3. LinkedIn/Problem 3. LinkedIn/LinkedIn.html",
+		"/D/TELERIK/4. HTML/Homework 04 HTML/index.html",
+		"/C/Users/gvelikov/Desktop/homeworks/Problem3.html",
+		"/D/TELERIK 2015/4. HTML/6. Семантичен HTML/HTML Semantic Homework/Problem 1. Refactoring/Problem 1. Refactoring/Refactoring.html",
+		"/C/Users/gvelikov/Desktop/homeworks/tables_1.html",
+		"/C/Users/gvelikov/Desktop/homeworks/Calculator.html",
+		"/C/Users/gvelikov/Desktop/homeworks/html_form.html",
+		"/C/Users/gvelikov/Desktop/homeworks/Html_tables.html",
+		"/D/TELERIK/4. HTML/Homework 03 HTML/Task04 Grid Component/Grid Component.html",
+		"/D/TELERIK/TELERIK 2015/4. HTML/5. Форми в HTML/HTML Forms Homework/Problem 3. Notebook store/Problem 3. Notebook store/Notebook store.html",
+		"/D/TELERIK/4. HTML/Homework 03 HTML/Task02 University Grid/index.html",
+		"/D/TELERIK/TELERIK 2015/4. HTML/5. Форми в HTML/HTML Forms Homework/Problem 4. Grid component/Problem 4. Grid component/Grid Component.html",
+		"/D/TELERIK/TELERIK 2015/4. HTML/5. Форми в HTML/HTML Forms Homework/Problem 2. University grid/Problem 2. University grid/University Grid.html",
+		"/C/Users/gvelikov/Desktop/homeworks/Problem 3/Home.html",
+		"/D/TELERIK/TELERIK 2015/4. HTML/5. Форми в HTML/HTML Forms Homework/Problem 1. Registration form/Problem 1. Registration form/Registration Form.html",
+		"/C/Users/gvelikov/Desktop/homeworks/HTML homework 1/Friends.html",
+		"/C/Users/gvelikov/Desktop/homeworks/HTML Fundamentals/Social-site/profile.html",
+		"/C/Users/gvelikov/Desktop/homeworks/Problem 3/Friends.html",
+		"/C/Users/gvelikov/Desktop/homeworks/HTML-Fundamentals/03-Doge-Social-Network/Home.html",
+		"/C/Users/gvelikov/Desktop/homeworks/HTML-Fundamentals/03-Doge-Social-Network/Friends.html",
+		"/C/Users/gvelikov/Desktop/homeworks/HTML-Fundamentals/02-Nested-Lists.html",
+		"/C/Users/gvelikov/Desktop/homeworks/HTML-Fundamentals/03-Doge-Social-Network/Profile.html",
+		"/C/Users/gvelikov/Desktop/homeworks/HTML-Fundamentals/01-Runners-Home-Page.html",
+		"/D/TELERIK/4. HTML/Homework 02 HTML/Task03 Calculator/calculator.html",
+		"/D/TELERIK/4. HTML/Homework 02 HTML/Task02 Forms/forms.html",
+		"/D/TELERIK/4. HTML/Homework 01 HTML/Task03/friends.html",
+		"/D/TELERIK/4. HTML/Homework 02 HTML/Task02 Forms/Task02 Forms.html",
+		"/D/TELERIK/4. HTML/Homework 02 HTML/Task02 Forms/img/submit.png",
+		"/D/TELERIK/4. HTML/Homework 02 HTML/Task01 Tables/index.html",
+		"/D/TELERIK/4. HTML/Homework 02 HTML/Task01/index.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/chrome.sublime-build",
+		"/D/TELERIK/4. HTML/Homework 02 HTML/Task01/index2.html",
+		"/D/TELERIK/4. HTML/Homework 01 HTML/Task01 - Runners Home Page/index.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/TELERIK/TELERIK 2015/4. HTML/3. Въведение в HTML/HTML Basics Homework/Problem 1 Runners Home page/Problem 1/Problem 1.html",
+		"/C/Users/User/Desktop/uu",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"550px",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"project": "Homework.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

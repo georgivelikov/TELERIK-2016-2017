@@ -1,0 +1,22 @@
+Singer James Hetfield added successfully
+James Hetfield: no songs
+Singer Sully Erna added successfully
+Sully Erna: no songs
+Song Until Then by Sully Erna added successfully
+50 items of song Until Then successfully supplied.
+20 items of song Until Then successfully sold.
+10 items of song Until Then successfully supplied.
+1 items of song Until Then successfully sold.
+1 items of song Until Then successfully supplied.
+20 items of song Until Then successfully sold.
+Until Then (2010) by Sully Erna
+Genre: Hard Rock, Price: $0.99
+Rating: 0
+Supplies: 20, Sold: 41
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+Until Then (2010) by Sully Erna
+Genre: Hard Rock, Price: $0.99
+Rating: 5
+Supplies: 20, Sold: 41

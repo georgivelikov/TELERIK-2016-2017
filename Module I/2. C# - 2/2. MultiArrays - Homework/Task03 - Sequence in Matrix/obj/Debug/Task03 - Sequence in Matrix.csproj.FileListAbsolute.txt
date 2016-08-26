@@ -1,0 +1,6 @@
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\Task03 - Sequence in Matrix\bin\Debug\Task03 - Sequence in Matrix.exe.config
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\Task03 - Sequence in Matrix\bin\Debug\Task03 - Sequence in Matrix.exe
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\Task03 - Sequence in Matrix\bin\Debug\Task03 - Sequence in Matrix.pdb
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\Task03 - Sequence in Matrix\obj\Debug\Task03 - Sequence in Matrix.csprojResolveAssemblyReference.cache
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\Task03 - Sequence in Matrix\obj\Debug\Task03 - Sequence in Matrix.exe
+D:\TELERIK\2. C# - 2\2. MultiArrays - Homework\Task03 - Sequence in Matrix\obj\Debug\Task03 - Sequence in Matrix.pdb

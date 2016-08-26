@@ -1,0 +1,6 @@
+D:\TELERIK\1. C# - 1\1. Intro to programming\Homework\Homework\Task 15 - Age\bin\Debug\Task 15 - Age.exe.config
+D:\TELERIK\1. C# - 1\1. Intro to programming\Homework\Homework\Task 15 - Age\bin\Debug\Task 15 - Age.exe
+D:\TELERIK\1. C# - 1\1. Intro to programming\Homework\Homework\Task 15 - Age\bin\Debug\Task 15 - Age.pdb
+D:\TELERIK\1. C# - 1\1. Intro to programming\Homework\Homework\Task 15 - Age\obj\Debug\Task 15 - Age.csprojResolveAssemblyReference.cache
+D:\TELERIK\1. C# - 1\1. Intro to programming\Homework\Homework\Task 15 - Age\obj\Debug\Task 15 - Age.exe
+D:\TELERIK\1. C# - 1\1. Intro to programming\Homework\Homework\Task 15 - Age\obj\Debug\Task 15 - Age.pdb

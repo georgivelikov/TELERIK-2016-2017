@@ -1,0 +1,5 @@
+C:\Users\gvelikov\Desktop\Exam\Exam\Task02\bin\Debug\Task02.exe.config
+C:\Users\gvelikov\Desktop\Exam\Exam\Task02\bin\Debug\Task02.exe
+C:\Users\gvelikov\Desktop\Exam\Exam\Task02\bin\Debug\Task02.pdb
+C:\Users\gvelikov\Desktop\Exam\Exam\Task02\obj\Debug\Task02.exe
+C:\Users\gvelikov\Desktop\Exam\Exam\Task02\obj\Debug\Task02.pdb

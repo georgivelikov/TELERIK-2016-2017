@@ -1,0 +1,14 @@
+insert:performer;singer;Sully Erna
+report:performer;singer;Sully Erna
+insert:media;song;7 Years;0.98;Sully Erna;Rock;2010;8.40
+
+insert:media;album;Avalon;10.99;Sully Erna;Rock;2010
+report:media;album;Avalon
+
+insert:song_to_album;Avalon;7 Years
+report:media;album;Avalon
+
+insert:media;song;Until Then;0.99;Sully Erna;Rock;2010;5.09
+insert:song_to_album;Avalon;Until Then
+report:media;album;Avalon
+end

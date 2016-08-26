@@ -1,0 +1,1 @@
+D:\TELERIK\2. C# - 2\6. Strings and Text Processing - Homework\Task12 - Parse Url\bin\Debug\Task12 - Parse Url.exe.config

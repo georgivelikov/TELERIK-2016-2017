@@ -1,0 +1,1 @@
+D:\TELERIK\2. C# - 2\5. Classes - Homework\Task04 - Triangle surface by side and altitude\bin\Debug\Task04 - Triangle surface by side and altitude.exe.config

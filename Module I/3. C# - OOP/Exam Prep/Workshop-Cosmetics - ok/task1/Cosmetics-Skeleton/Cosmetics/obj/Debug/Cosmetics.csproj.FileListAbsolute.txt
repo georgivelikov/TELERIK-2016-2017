@@ -1,0 +1,6 @@
+C:\Users\gvelikov\Desktop\Workshop-Cosmetics\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Users\gvelikov\Desktop\Workshop-Cosmetics\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe
+C:\Users\gvelikov\Desktop\Workshop-Cosmetics\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.pdb
+C:\Users\gvelikov\Desktop\Workshop-Cosmetics\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+C:\Users\gvelikov\Desktop\Workshop-Cosmetics\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.exe
+C:\Users\gvelikov\Desktop\Workshop-Cosmetics\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.pdb

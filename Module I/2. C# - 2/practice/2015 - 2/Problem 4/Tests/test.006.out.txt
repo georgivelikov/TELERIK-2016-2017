@@ -1,0 +1,3 @@
+Methods -> 4 -> line, position, numberOfLines, foundMethods
+Loops -> 6 -> i, i, indexOfMethodDeclaration, isKeyWord, lastKeyword, j
+Conditional Statements -> 2 -> indexOfOpenBracket, indexOfSpaceBeforeBracket

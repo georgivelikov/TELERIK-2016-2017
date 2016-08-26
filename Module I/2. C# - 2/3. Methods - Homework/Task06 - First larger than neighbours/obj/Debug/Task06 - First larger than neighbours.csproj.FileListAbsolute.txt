@@ -1,0 +1,1 @@
+D:\TELERIK\2. C# - 2\3. Methods - Homework\Task06 - First larger than neighbours\bin\Debug\Task06 - First larger than neighbours.exe.config

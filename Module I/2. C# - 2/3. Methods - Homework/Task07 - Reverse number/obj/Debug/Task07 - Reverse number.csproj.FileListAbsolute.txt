@@ -1,0 +1,1 @@
+D:\TELERIK\2. C# - 2\3. Methods - Homework\Task07 - Reverse number\bin\Debug\Task07 - Reverse number.exe.config

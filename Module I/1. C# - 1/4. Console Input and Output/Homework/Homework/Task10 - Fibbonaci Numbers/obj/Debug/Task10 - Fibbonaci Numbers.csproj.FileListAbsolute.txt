@@ -1,0 +1,6 @@
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task10 - Fibbonaci Numbers\bin\Debug\Task10 - Fibbonaci Numbers.exe.config
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task10 - Fibbonaci Numbers\bin\Debug\Task10 - Fibbonaci Numbers.exe
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task10 - Fibbonaci Numbers\bin\Debug\Task10 - Fibbonaci Numbers.pdb
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task10 - Fibbonaci Numbers\obj\Debug\Task10 - Fibbonaci Numbers.csprojResolveAssemblyReference.cache
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task10 - Fibbonaci Numbers\obj\Debug\Task10 - Fibbonaci Numbers.exe
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task10 - Fibbonaci Numbers\obj\Debug\Task10 - Fibbonaci Numbers.pdb

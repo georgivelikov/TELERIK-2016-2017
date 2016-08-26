@@ -1,0 +1,9 @@
+insert:performer;band;Metallica
+
+insert:member_to_band:Metallica:James Hetfield
+insert:member_to_band:Metallica:Lars Ulrich
+insert:member_to_band:Metallica:Kirk Hammett
+insert:member_to_band:Metallica:Robert Trujillo
+
+report:performer;band;Metallica
+end

@@ -1,0 +1,6 @@
+D:\TELERIK\3. C# - OOP\OOP - Homework 3\Task07\bin\Debug\Task07.exe.config
+D:\TELERIK\3. C# - OOP\OOP - Homework 3\Task07\bin\Debug\Task07.exe
+D:\TELERIK\3. C# - OOP\OOP - Homework 3\Task07\bin\Debug\Task07.pdb
+D:\TELERIK\3. C# - OOP\OOP - Homework 3\Task07\obj\Debug\Task07.csprojResolveAssemblyReference.cache
+D:\TELERIK\3. C# - OOP\OOP - Homework 3\Task07\obj\Debug\Task07.exe
+D:\TELERIK\3. C# - OOP\OOP - Homework 3\Task07\obj\Debug\Task07.pdb

@@ -1,0 +1,6 @@
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task09 - Matrix of Numbers\bin\Debug\Task09 - Matrix of Numbers.exe.config
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task09 - Matrix of Numbers\bin\Debug\Task09 - Matrix of Numbers.exe
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task09 - Matrix of Numbers\bin\Debug\Task09 - Matrix of Numbers.pdb
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task09 - Matrix of Numbers\obj\Debug\Task09 - Matrix of Numbers.csprojResolveAssemblyReference.cache
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task09 - Matrix of Numbers\obj\Debug\Task09 - Matrix of Numbers.exe
+D:\TELERIK\1. C# - 1\6. Loops\Homework\Task09 - Matrix of Numbers\obj\Debug\Task09 - Matrix of Numbers.pdb

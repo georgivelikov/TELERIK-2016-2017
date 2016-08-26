@@ -1,0 +1,178 @@
+body {
+	background-color: #F1F1F1;
+	font-family: arial;
+	font-size: 12px;
+}
+#wrapper {
+	width: 781px;
+	height: 600px;
+}
+#left {
+	width: 14.5%;
+	float: left;
+}
+#right {
+	width: 22.5%;
+	float: left;
+}
+#left img {
+	width: 20px;
+	height: 20px;
+}
+#left #home {
+	font-weight: bold;
+	display: inline-block;
+	position: absolute;
+	top: 14px;
+	left: 30px;
+}
+#left ul {
+	list-style-type: none;
+	padding: 0px;
+}
+
+#left .title {
+	color: #7F0000;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+	color: #000000;
+}
+main {
+	float: left;
+	background-color: #FFFFFF;
+	border: 1px solid #808080;
+	width: 60%;
+	height: 600px;
+	margin: 5px;
+}
+main header {
+	border-bottom: 1px solid #808080;
+	padding: 5px;
+	margin: 5px;
+}
+main header h1 {
+	padding: 0px;
+	margin: 10px;
+}
+main section header {
+	color: #FFFFFF;
+	margin:5px;
+	padding: 0px 5px;
+	background-color: #808080;
+}
+main section header h2 {
+	margin:0px;
+	padding: 0px;
+	font-weight: normal;
+}
+main section article {
+	padding: 5px;
+}
+main section article img {
+	float: left;
+}
+main section article h3 {
+	font-size: 12px;
+}
+.bold {
+	font-weight: bold;
+}
+main a {
+	color: #7F0000;
+	text-decoration: underline;
+}
+main button {
+	width: 100px;
+	height: 25px;
+	font-size: 12px;
+	background-color: #FFFFFF;
+	border:1px solid black;
+}
+main p {
+	margin: 0px;
+}
+.next {
+	text-align: right;
+}
+.previous {
+	text-align: left;
+}
+.leftSpan {
+	margin-right: 15px;
+}
+.rightSpan {
+	margin-right: 25px;
+}
+main footer {
+	border-top: 1px solid #808080;
+	border-bottom: 1px solid #808080;
+	padding:5px 0px;
+	margin:0px 5px;
+}
+#right {
+	padding-top: 5px;
+}
+#right a {
+	color: #7F0000;
+	text-decoration: underline;
+	display: block;
+	margin: 3px 15px;
+	font-size: 12px;
+}
+#search, #styles, #hosting {
+	background-color: #FFFFFF;
+	border:1px solid #808080;
+	margin-bottom: 2px;
+	text-align: center;
+}
+#search h3 {
+	margin:0px;
+	padding: 2px 0px;
+	text-align: center;
+	font-weight: normal;
+}
+#search header {
+	color: #FFFFFF;
+	background-color: #808080; 
+}
+#search input {
+	width: 90px;
+	margin: 5px;
+}
+#search button {
+	width: 22px;
+	border:1px solid #808080; 
+	border-radius: 3px;
+	text-align: left;
+	padding: 2px 4px;
+	font-weight: bold;
+}
+#styles {
+	padding: 5px;
+}
+#styles button {
+	color: #1BC4FE;
+	border: 1px solid #6298C0;
+	background-color: #C1E7FA;
+	width: 100px;
+	height: 30px;
+}
+#hosting h3 {
+	margin:0px;
+	padding: 2px 0px;
+	text-align: center;
+	font-weight: normal;
+}
+#hosting header {
+	color: #FFFFFF;
+	background-color: #808080; 
+}
+.side {
+	border:1px solid #808080; 
+	text-align: center;
+	padding: 1px;
+	background-color: #FFFFFF;
+	margin-bottom: 2px;
+}

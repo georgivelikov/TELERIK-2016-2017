@@ -1,0 +1,6 @@
+D:\TELERIK\2. C# - 2\5. Classes - Homework\Task01 - Leap year\bin\Debug\Task01 - Leap year.exe.config
+D:\TELERIK\2. C# - 2\5. Classes - Homework\Task01 - Leap year\bin\Debug\Task01 - Leap year.exe
+D:\TELERIK\2. C# - 2\5. Classes - Homework\Task01 - Leap year\bin\Debug\Task01 - Leap year.pdb
+D:\TELERIK\2. C# - 2\5. Classes - Homework\Task01 - Leap year\obj\Debug\Task01 - Leap year.csprojResolveAssemblyReference.cache
+D:\TELERIK\2. C# - 2\5. Classes - Homework\Task01 - Leap year\obj\Debug\Task01 - Leap year.exe
+D:\TELERIK\2. C# - 2\5. Classes - Homework\Task01 - Leap year\obj\Debug\Task01 - Leap year.pdb

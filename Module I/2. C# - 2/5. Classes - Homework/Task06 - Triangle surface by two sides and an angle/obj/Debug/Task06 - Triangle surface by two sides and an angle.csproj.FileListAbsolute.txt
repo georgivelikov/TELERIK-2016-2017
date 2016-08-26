@@ -1,0 +1,5 @@
+D:\TELERIK\2. C# - 2\5. Classes - Homework\Task06 - Triangle surface by two sides and an angle\bin\Debug\Task06 - Triangle surface by two sides and an angle.exe.config
+D:\TELERIK\2. C# - 2\5. Classes - Homework\Task06 - Triangle surface by two sides and an angle\bin\Debug\Task06 - Triangle surface by two sides and an angle.exe
+D:\TELERIK\2. C# - 2\5. Classes - Homework\Task06 - Triangle surface by two sides and an angle\bin\Debug\Task06 - Triangle surface by two sides and an angle.pdb
+D:\TELERIK\2. C# - 2\5. Classes - Homework\Task06 - Triangle surface by two sides and an angle\obj\Debug\Task06 - Triangle surface by two sides and an angle.exe
+D:\TELERIK\2. C# - 2\5. Classes - Homework\Task06 - Triangle surface by two sides and an angle\obj\Debug\Task06 - Triangle surface by two sides and an angle.pdb

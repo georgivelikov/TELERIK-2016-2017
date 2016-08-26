@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registation form</title>
+	<style type="text/css">
+		table{
+			border-collapse: collapse;
+			width: 400px;
+		}
+		td{
+			border:1px solid;
+			border-color: #8C8C8C;
+			padding: 5px;
+		}
+		tfoot{
+
+			background-color: #D1EDE1;
+			text-align: center;
+		}
+		textarea{
+			width: 280px;
+			height: 80px;
+		}
+		.first{
+			width: 100px;
+			text-align: right;
+			font-weight: bold;
+		}
+		.second{
+			width: 300px;
+		}
+	</style>
+</head>
+<body>
+	<form name="registrationForm" method="post">
+		<table>
+			<tfoot>
+				<td colspan="4">
+					<button type="submit" id="submit" name="SubmitBtn">Submit</button>
+					<button type="reset" id="reset" name="ResetBtn">Clear This Form</button>
+				</td>
+			</tfoot>
+				<tbody>
+				<tr>
+					<td class="first">
+						<label for="lastName">Last Name</label>
+					</td>
+					<td class="second" colspan="3">
+						<input id="lastName" type="text" name="LastName" style="width: 280px" required/>
+					</td>
+				</tr>
+				<tr>
+					<td class="first">
+						<label for="firstName">First Name</label>
+					</td>
+					<td class="second" colspan="3">
+						<input id="firstName" type="text" name="FirstName" style="width: 280px" required/>
+					</td>
+				</tr>
+				<tr>
+					<td class="first">
+						<label for="address">Address</label>
+					</td>
+					<td class="second" colspan="3">
+						<textarea id="address" name="Address" required></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td class="first">
+						<label for="city">City</label>
+					</td>
+					<td>	
+						<input id="city" type="text" name="City" style="width:180px" required/>
+					</td>
+					<td style="width: 40px">
+						<label for="state"><b>State</b></label>
+					</td>
+					<td>
+						<input id="state" type="text" name="State" style="width:40px" required/>
+					</td>
+				</tr>
+				<tr>
+					<td class="first">
+						<label for="zip">Zip/Postal Code</label>
+					</td>
+					<td class="second" colspan="3">
+						<input id="zip" type="text" name="Zip" style="width:100px" required/>
+					</td>
+				</tr>
+				<tr>
+					<td class="first">
+						<label for="country">Country</label>
+					</td>
+					<td class="second" colspan="3">
+						<select id="select" name="CountrySelect" style="width:200px" required>
+							<option id="country1" name="Country1" selected>Bulgaria</option>
+							<option id="country2" name="Country2">USA</option>
+							<option id="country3" name="Country3">Russia</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td class="first">
+						<label for="countryCode">Phone(country code, area code, number)</label>
+					</td>
+					<td class="second" colspan="3">
+						(+<input id="countryCode" type="tel" name="CountryCode" style="width:50px"/ required>)
+						<input id="areaCode" type="tel" name="AreaCode" style="width:60px" required>
+						<input id="phone" type="tel" name="Phone" style="width:120px"/ required>
+					</td>
+				</tr>
+				<tr>
+					<td class="first">
+						<label for="email">Email</label>
+					</td>
+					<td class="second" colspan="3">
+						<input type="email" id="email" type="text" name="Email" style="width:280px" required/>
+					</td>
+				</tr>
+				<tr>
+					<td class="first">
+						<label for="year">Birth date</label>
+					</td>
+					<td class="second" colspan="3">
+						<label for="month">Month</label>
+						<input id="month" type="text" name="Month" style="width:20px" required/>
+						<label for="day">Day</label>
+						<input id="day" type="text" name="Day" style="width:20px" required/>
+						<label for="year">Year(4 digit)</label>
+						<input id="year" type="text" name="Year" style="width:60px" required/>
+					</td>
+				</tr>
+				<tr>
+					<td class="first">
+						<label for="gender">Gender</label>
+					</td>
+					<td class="second" colspan="3">
+						<select id="gender" name="GenderSelect">
+							<option id="option1" name="Option1"  selected="selected">Male</option>
+							<option id="option2" name="Option2" value="female">Female</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td class="first">
+						<label for="startingDate">Starting Date</label>
+					</td>
+					<td class="second" colspan="3">
+						<input type="radio" id="startingDate1" name="StartingDate" value="Spring 2006" checked></input>
+						<label for="startingDate1">Spring 2006</label>
+
+						<input type="radio" id="startingDate2" name="StartingDate" value="Summer 2006"></input>
+						<label for="startingDate2">Summer 2006</label>
+					</td>
+				</tr>
+				<tr>
+					<td class="first">
+						<label for="comments">Comments/Questions</label>
+					</td>
+					<td class="second" colspan="3">
+						<textarea id="comments" name="Comments"></textarea>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</form>
+</body>
+</html>

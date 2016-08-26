@@ -1,0 +1,5 @@
+C:\Users\gvelikov\Desktop\practice\2013 - 3\Var3 - 2013\Task02\bin\Debug\Task02.exe.config
+C:\Users\gvelikov\Desktop\practice\2013 - 3\Var3 - 2013\Task02\bin\Debug\Task02.exe
+C:\Users\gvelikov\Desktop\practice\2013 - 3\Var3 - 2013\Task02\bin\Debug\Task02.pdb
+C:\Users\gvelikov\Desktop\practice\2013 - 3\Var3 - 2013\Task02\obj\Debug\Task02.exe
+C:\Users\gvelikov\Desktop\practice\2013 - 3\Var3 - 2013\Task02\obj\Debug\Task02.pdb

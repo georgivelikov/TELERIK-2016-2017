@@ -1,0 +1,22 @@
+Singer Sully Erna added successfully
+Sully Erna: no songs
+Song 7 Years by Sully Erna added successfully
+Album Avalon by Sully Erna added successfully
+Avalon (2010) by Sully Erna
+Genre: Rock, Price: $10.99
+Supplies: 0, Sold: 0
+No songs
+The song 7 Years has been added to the album Avalon.
+Avalon (2010) by Sully Erna
+Genre: Rock, Price: $10.99
+Supplies: 0, Sold: 0
+Songs:
+7 Years (8.40)
+Song Until Then by Sully Erna added successfully
+The song Until Then has been added to the album Avalon.
+Avalon (2010) by Sully Erna
+Genre: Rock, Price: $10.99
+Supplies: 0, Sold: 0
+Songs:
+7 Years (8.40)
+Until Then (5.09)

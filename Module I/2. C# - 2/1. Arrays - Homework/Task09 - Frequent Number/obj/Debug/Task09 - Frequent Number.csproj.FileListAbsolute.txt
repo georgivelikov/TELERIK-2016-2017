@@ -1,0 +1,5 @@
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task09 - Frequent Number\bin\Debug\Task09 - Frequent Number.exe.config
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task09 - Frequent Number\bin\Debug\Task09 - Frequent Number.exe
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task09 - Frequent Number\bin\Debug\Task09 - Frequent Number.pdb
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task09 - Frequent Number\obj\Debug\Task09 - Frequent Number.exe
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task09 - Frequent Number\obj\Debug\Task09 - Frequent Number.pdb

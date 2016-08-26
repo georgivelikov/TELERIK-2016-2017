@@ -1,0 +1,1 @@
+D:\TELERIK\2. C# - 2\3. Methods - Homework\Task11 - Adding Polynomials\bin\Debug\Task11 - Adding Polynomials.exe.config

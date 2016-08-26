@@ -1,0 +1,6 @@
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task03 - Circle\bin\Debug\Task03 - Circle.exe.config
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task03 - Circle\bin\Debug\Task03 - Circle.exe
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task03 - Circle\bin\Debug\Task03 - Circle.pdb
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task03 - Circle\obj\Debug\Task03 - Circle.csprojResolveAssemblyReference.cache
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task03 - Circle\obj\Debug\Task03 - Circle.exe
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task03 - Circle\obj\Debug\Task03 - Circle.pdb

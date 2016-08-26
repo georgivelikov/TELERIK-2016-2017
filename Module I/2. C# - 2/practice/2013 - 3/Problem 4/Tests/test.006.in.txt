@@ -1,0 +1,10 @@
+9
+If youre a <rev><rev>developer</rev></rev> you probably dont need to read this part.
+Otherwise has stopped working messages are <rev><upper>triggered</upper></rev> by what is called an unhandled exception.
+<upper>Exceptions</upper> <upper>are <lower>ways<del>ways</del></lower> for programs</upper>
+(and parts of them) to
+report
+errors. <rev>For
+example</rev> no more <rev>hard-disk</rev> space no access rights not enough RAM<del> no internet connection</del>
+are typical problems reported through <upper>exceptions</upper>. When a part of a program encounters such a
+problem it <upper>throws</upper> an exception

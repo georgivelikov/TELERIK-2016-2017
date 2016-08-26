@@ -1,0 +1,6 @@
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task07 - One System to any other\bin\Debug\Task07 - One System to any other.exe.config
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task07 - One System to any other\bin\Debug\Task07 - One System to any other.exe
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task07 - One System to any other\bin\Debug\Task07 - One System to any other.pdb
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task07 - One System to any other\obj\Debug\Task07 - One System to any other.csprojResolveAssemblyReference.cache
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task07 - One System to any other\obj\Debug\Task07 - One System to any other.exe
+D:\TELERIK\2. C# - 2\3. Numeral systems - Homework\Task07 - One System to any other\obj\Debug\Task07 - One System to any other.pdb

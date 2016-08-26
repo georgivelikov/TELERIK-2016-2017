@@ -1,0 +1,5 @@
+D:\TELERIK\1. C# - 1\1. Intro to programming\Homework\Homework\Task 16 - Long Sequence\bin\Debug\Task 16 - Long Sequence.exe.config
+D:\TELERIK\1. C# - 1\1. Intro to programming\Homework\Homework\Task 16 - Long Sequence\bin\Debug\Task 16 - Long Sequence.exe
+D:\TELERIK\1. C# - 1\1. Intro to programming\Homework\Homework\Task 16 - Long Sequence\bin\Debug\Task 16 - Long Sequence.pdb
+D:\TELERIK\1. C# - 1\1. Intro to programming\Homework\Homework\Task 16 - Long Sequence\obj\Debug\Task 16 - Long Sequence.exe
+D:\TELERIK\1. C# - 1\1. Intro to programming\Homework\Homework\Task 16 - Long Sequence\obj\Debug\Task 16 - Long Sequence.pdb

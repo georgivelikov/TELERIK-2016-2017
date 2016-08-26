@@ -1,0 +1,3 @@
+Methods -> 7 -> strangeLandNumber, result, lastDigitStartIndex, currentPower, base, power, result
+Loops -> 2 -> index, i
+Conditional Statements -> 3 -> strangeLandDigit, currentDecimalDigit, currentDecimalNumber

@@ -1,0 +1,5 @@
+D:\TELERIK\3. C# - OOP\OOP - Homework 3\Task06\bin\Debug\Task06.exe.config
+D:\TELERIK\3. C# - OOP\OOP - Homework 3\Task06\bin\Debug\Task06.exe
+D:\TELERIK\3. C# - OOP\OOP - Homework 3\Task06\bin\Debug\Task06.pdb
+D:\TELERIK\3. C# - OOP\OOP - Homework 3\Task06\obj\Debug\Task06.exe
+D:\TELERIK\3. C# - OOP\OOP - Homework 3\Task06\obj\Debug\Task06.pdb

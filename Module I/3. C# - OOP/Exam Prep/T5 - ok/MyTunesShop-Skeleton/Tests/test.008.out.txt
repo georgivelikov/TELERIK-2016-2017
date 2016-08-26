@@ -1,0 +1,85 @@
+Band Metallica added successfully
+The member James Hetfield has been added to the band Metallica.
+The member Lars Ulrich has been added to the band Metallica.
+Song Fight Fire with Fire by Metallica added successfully
+Song Fade to Black by Metallica added successfully
+Song Escape by Metallica added successfully
+Song Creeping Death by Metallica added successfully
+The member Kirk Hammett has been added to the band Metallica.
+The member Robert Trujillo has been added to the band Metallica.
+Album Ride the Lightning by Metallica added successfully
+30 items of album Ride the Lightning successfully supplied.
+30 items of song Escape successfully supplied.
+30 items of song Fade to Black successfully supplied.
+Ride the Lightning (1984) by Metallica
+Genre: Thrash Metal, Price: $45.99
+Supplies: 30, Sold: 0
+No songs
+Fade to Black (1984) by Metallica
+Genre: Thrash Metal, Price: $1.34
+Rating: 0
+Supplies: 30, Sold: 0
+Metallica: James Hetfield, Lars Ulrich, Kirk Hammett, Robert Trujillo
+Creeping Death; Escape; Fade to Black; Fight Fire with Fire
+The song Fight Fire with Fire has been added to the album Ride the Lightning.
+The song Fade to Black has been added to the album Ride the Lightning.
+Metallica: James Hetfield, Lars Ulrich, Kirk Hammett, Robert Trujillo
+Creeping Death; Escape; Fade to Black; Fight Fire with Fire
+Ride the Lightning (1984) by Metallica
+Genre: Thrash Metal, Price: $45.99
+Supplies: 30, Sold: 0
+Songs:
+Fight Fire with Fire (6.36)
+Fade to Black (6.57)
+Fade to Black (1984) by Metallica
+Genre: Thrash Metal, Price: $1.34
+Rating: 0
+Supplies: 30, Sold: 0
+Singer Sully Erna added successfully
+Song 7 Years by Sully Erna added successfully
+Album Avalon by Sully Erna added successfully
+The song 7 Years has been added to the album Avalon.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+30 items of song 7 Years successfully supplied.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+The rating has been placed successfully.
+Metallica: James Hetfield, Lars Ulrich, Kirk Hammett, Robert Trujillo
+Creeping Death; Escape; Fade to Black; Fight Fire with Fire
+Fade to Black (1984) by Metallica
+Genre: Thrash Metal, Price: $1.34
+Rating: 4
+Supplies: 30, Sold: 0
+7 Years (2010) by Sully Erna
+Genre: Rock, Price: $0.99
+Rating: 4
+Supplies: 30, Sold: 0
+Ride the Lightning (1984) by Metallica
+Genre: Thrash Metal, Price: $45.99
+Supplies: 30, Sold: 0
+Songs:
+Fight Fire with Fire (6.36)
+Fade to Black (6.57)

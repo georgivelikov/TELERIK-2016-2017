@@ -1,0 +1,6 @@
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task13 - Merge Sort\bin\Debug\Task13 - Merge Sort.exe.config
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task13 - Merge Sort\bin\Debug\Task13 - Merge Sort.exe
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task13 - Merge Sort\bin\Debug\Task13 - Merge Sort.pdb
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task13 - Merge Sort\obj\Debug\Task13 - Merge Sort.csprojResolveAssemblyReference.cache
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task13 - Merge Sort\obj\Debug\Task13 - Merge Sort.exe
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task13 - Merge Sort\obj\Debug\Task13 - Merge Sort.pdb

@@ -1,0 +1,41 @@
+body {
+	background-color: #A9A9A9;
+}
+#pageHeader {
+	text-align: center;
+}
+#pageHeader h1 {
+	font-size: 40px;
+	color: #FAFAD2;
+}
+#pageHeader ol {
+	display: inline-block;
+	list-style-type: none
+}
+
+#pageHeader a {
+	text-decoration: none;
+	font-size: 25px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+a#underlinedLink {
+	text-decoration: underline;
+}
+
+#pageHeader a:hover {
+	background-color: #D3D3D3
+}
+
+.articleHeader {
+	color: #FAFAD2;
+}
+
+.articleFooter {
+	font-size: 12px;
+}
+
+#pageFooter {
+	text-align: center;
+	margin-top: 50px; 
+}

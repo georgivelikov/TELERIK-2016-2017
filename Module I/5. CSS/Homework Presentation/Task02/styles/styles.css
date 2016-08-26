@@ -1,0 +1,121 @@
+#logo {
+	font-size: 60px;
+	font-family: 'Blackadder ITC';
+	text-shadow: -4px 0 #8213D8, 0 4px #8213D8, 4px 0 #8213D8, 0 -4px #8213D8;
+	width: 40%;
+	display: inline;
+	font-weight: bold;
+}
+#registration {
+	float: right;
+	width: 20%
+}
+#registration input label {
+	display: block
+}
+#registration input {
+	margin: 5px;
+	background-color: #B35EF3;
+	border: 1px solid #41096B;
+	border-radius: 10px;
+	height: 20px;
+	width: 120px
+}
+#registration label {
+	margin: 5px;
+	font-size: 12px;
+}
+#registration input[type="password"] {
+	margin-left: 8px;
+}
+#registration button {
+	height: 30px;
+	width: 80px;
+	background-color: #B35EF3;
+	color: #FFFFFF;
+	border-radius: 10px;
+	border-right-color: #41096B;
+	border-bottom-color: #41096B;
+}
+nav {
+	margin: 20px;
+	width: 70%;
+	height: 20px;
+	padding: 10px;
+	border: 2px solid #41096B;
+	border-radius: 15px;
+}
+nav ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+nav ul li {
+	display: inline;
+	margin-left: 10px;
+}
+body {
+	padding: 5px;
+	background-color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d492fe+0,c58af2+5,a439f4+15,911df0+20,8f19ef+21,9215f2+24,9215f2+100 */
+background: #d492fe; /* Old browsers */
+background: -moz-linear-gradient(top,  #d492fe 0%, #c58af2 5%, #a439f4 15%, #911df0 20%, #8f19ef 21%, #9215f2 24%, #9215f2 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #d492fe 0%,#c58af2 5%,#a439f4 15%,#911df0 20%,#8f19ef 21%,#9215f2 24%,#9215f2 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #d492fe 0%,#c58af2 5%,#a439f4 15%,#911df0 20%,#8f19ef 21%,#9215f2 24%,#9215f2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d492fe', endColorstr='#9215f2',GradientType=0 ); /* IE6-9 */
+
+	color: #FFFFFF;
+}
+main {
+	width: 70%;
+	float: left;
+	display: inline;
+	margin-right: 10px
+}
+
+section {
+	padding: 20px;
+	margin: 10px;
+	border: 2px solid #41096B;
+	border-radius: 15px;
+}
+section h2 {
+	padding: 0px;
+	margin: 0px;
+	font-size: 20px;
+	margin:5px;
+}
+section footer {
+	text-align: right;
+}
+section footer span {
+	color: #CC8CF7
+}
+aside {
+	width: 25%;
+	float: left;
+	display: inline;
+	padding: 10px;
+}
+aside div h3 {
+	padding: 0px;
+	margin:5px;
+	font-size: 14px;
+}
+aside div {
+	border:2px solid #41096B;
+	padding: 10px;
+	font-size: 14px;
+	border-radius: 10px;
+	margin: 10px
+}
+aside ul {
+	list-style-image: url('../images/bullet.png');
+}
+aside div strong, em {
+	color: #CC8CF7
+}
+footer {
+	clear: both;
+	text-align: center;
+	padding: 20px;
+}

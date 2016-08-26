@@ -1,0 +1,60 @@
+body {
+	font-family: times;
+}
+header {
+	width: 662px;
+	height: 65px;
+	background-color: #353535;
+	box-sizing: border-box;
+	padding: 10px;
+	border-radius: 10px 10px 0px 0px;
+}
+img {
+	float: left
+}
+form {
+	float: left;
+	height: 40px;
+	padding: 5px 10px;
+}
+label {
+	font-size: 24px;
+	color: #FFFFFF;
+	padding: 0px 10px;
+}
+input {
+	width: 145px;
+	margin-right: 20px;
+	padding-left: 10px;
+	box-sizing: border-box;
+}
+button {
+	width: 55px;
+	height: 30px;
+	border: 1px solid #FFFFFF;
+	border-radius: 10px;
+	background-image: url('button.png');
+	background-size: 55px 30px;
+	color: #FFFFFF;
+}
+main {
+	width: 662px;
+	height: 235px;
+	background-color: #3B3B3B;
+	color: #A6A6A6;
+	box-sizing: border-box;
+	padding: 10px 60px 10px 10px;
+	border-radius:0px 0px 10px 10px;
+}
+main h1 {
+	margin: 10px 0px;
+	color: yellow;
+	font-weight: normal;
+
+}
+main span {
+	color: #FFFFFF;
+}
+main a {
+	color: #A6A6A6;
+}

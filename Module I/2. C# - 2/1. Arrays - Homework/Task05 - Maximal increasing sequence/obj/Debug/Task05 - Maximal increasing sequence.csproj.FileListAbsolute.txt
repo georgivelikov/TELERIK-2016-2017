@@ -1,0 +1,1 @@
+D:\TELERIK\2. C# - 2\1. Arrays - Homework\Task05 - Maximal increasing sequence\bin\Debug\Task05 - Maximal increasing sequence.exe.config

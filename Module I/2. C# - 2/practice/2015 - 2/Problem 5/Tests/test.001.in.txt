@@ -1,0 +1,13 @@
+6 cats
+3 songs
+Cat 6 knows song 2
+Cat 3 knows song 1
+Cat 2 knows song 3
+Cat 3 knows song 3
+Cat 4 knows song 3
+Cat 2 knows song 1
+Cat 1 knows song 1
+Cat 5 knows song 2
+Cat 4 knows song 2
+Cat 5 knows song 3
+Mew!

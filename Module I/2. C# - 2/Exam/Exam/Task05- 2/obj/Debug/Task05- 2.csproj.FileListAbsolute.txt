@@ -1,0 +1,12 @@
+C:\Users\gvelikov\Desktop\Exam\Exam\Task05- 2\bin\Debug\Task05- 2.exe.config
+C:\Users\gvelikov\Desktop\Exam\Exam\Task05- 2\bin\Debug\Task05- 2.exe
+C:\Users\gvelikov\Desktop\Exam\Exam\Task05- 2\bin\Debug\Task05- 2.pdb
+C:\Users\gvelikov\Desktop\Exam\Exam\Task05- 2\obj\Debug\Task05- 2.csprojResolveAssemblyReference.cache
+C:\Users\gvelikov\Desktop\Exam\Exam\Task05- 2\obj\Debug\Task05- 2.exe
+C:\Users\gvelikov\Desktop\Exam\Exam\Task05- 2\obj\Debug\Task05- 2.pdb
+D:\TELERIK\2. C# - 2\Exam\Exam\Task05- 2\bin\Debug\Task05- 2.exe.config
+D:\TELERIK\2. C# - 2\Exam\Exam\Task05- 2\obj\Debug\Task05- 2.exe
+D:\TELERIK\2. C# - 2\Exam\Exam\Task05- 2\obj\Debug\Task05- 2.pdb
+D:\TELERIK\2. C# - 2\Exam\Exam\Task05- 2\bin\Debug\Task05- 2.exe
+D:\TELERIK\2. C# - 2\Exam\Exam\Task05- 2\bin\Debug\Task05- 2.pdb
+D:\TELERIK\2. C# - 2\Exam\Exam\Task05- 2\obj\Debug\Task05- 2.csprojResolveAssemblyReference.cache

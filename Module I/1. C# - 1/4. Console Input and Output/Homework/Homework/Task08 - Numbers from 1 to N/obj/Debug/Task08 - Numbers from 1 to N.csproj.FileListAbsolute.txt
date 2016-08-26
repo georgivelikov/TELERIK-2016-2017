@@ -1,0 +1,1 @@
+D:\TELERIK\1. C# - 1\4. Console Input and Output\Homework\Homework\Task08 - Numbers from 1 to N\bin\Debug\Task08 - Numbers from 1 to N.exe.config
