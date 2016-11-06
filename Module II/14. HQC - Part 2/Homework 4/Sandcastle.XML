@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Task 01 - String Extensions</name>
+    </assembly>
+    <members>
+        <member name="T:StringExtensions">
+            <summary>
+            Static class StringExtensions adds functionalities to the System.String type
+            </summary>
+        </member>
+        <member name="M:StringExtensions.ToMD5Hash(System.String)">
+            <summary>
+            ToMD5Hash method encrypts a string into a hash value. 
+            The MD5 message-digest algorithm is a widely used cryptographic hash function producing a 128-bit (16-byte) 
+            hash value, typically expressed in text format as a 32 digit hexadecimal number. https://en.wikipedia.org/wiki/MD5
+            </summary>
+            <param name="input">Variable of type string.</param>
+            <returns>32 digit hexadecimal number in string format.</returns>
+        </member>
+        <member name="M:StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Checks if the input string can be assumed as a confirmation statement.
+            If it can, returns true, else - returns false.
+            </summary>
+            <param name="input">Variable of type string.</param>
+            <returns>Variable of boolean type - true or false.</returns>
+        </member>
+        <member name="M:StringExtensions.ToShort(System.String)">
+            <summary>
+            Parse string input into number of type short. If unsuccessful, returns default value for type short - 0.
+            </summary>
+            <param name="input">Variable of type string.</param>
+            <returns>A value of type short.</returns>
+        </member>
+        <member name="M:StringExtensions.ToInteger(System.String)">
+            <summary>
+            Parse string input into number of integer type. If unsuccessful, returns default value for integer type - 0.
+            </summary>
+            <param name="input">Variable of type string.</param>
+            <returns>A value of integer type.</returns>
+        </member>
+        <member name="M:StringExtensions.ToLong(System.String)">
+            <summary>
+            Parse string input into number of type long. If unsuccessful, returns default value for type long - 0.
+            </summary>
+            <param name="input">Variable of type string.</param>
+            <returns>A value of type long.</returns>
+        </member>
+        <member name="M:StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Tries to parse string input into DateTime type. If unsuccessful, returns default for DateTime object - 1.1.0001. 00:00:00
+            </summary>
+            <param name="input">Variable of type string.</param>
+            <returns>A value of type DateTime.</returns>
+        </member>
+        <member name="M:StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            (No need for additional explanation)
+            </summary>
+            <param name="input">Variable of type string.</param>
+            <returns>Returns the input string with capitalized first letter.</returns>
+        </member>
+        <member name="M:StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Returns a substring of the input string, which is found between the indexes of the 
+            first occurrences of startString and endString parameters.
+            </summary>
+            <param name="input">AA value representing the input string.</param>
+            <param name="startString">A value representing the starting string.</param>
+            <param name="endString">A value representing the ending string.</param>
+            <param name="startFrom">A value of integer type. Represent the index where the search begins. Set to 0 by default.</param>
+            <returns>A value of type string.</returns>
+        </member>
+        <member name="M:StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            (No need for additional explanation)
+            </summary>
+            <param name="input">A value of type string.</param>
+            <returns>A string where all cyrillic letters have been changed to latin letters.</returns>
+        </member>
+        <member name="M:StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            (No need for additional explanation)
+            </summary>
+            <param name="input">A value of type string.</param>
+            <returns>A string where all latin letters have been changed to cyrillic letters.</returns>
+        </member>
+        <member name="M:StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Removes all characters that are not latin letters, numbers, dot or underscore from the input string. 
+            Returns the modified string and considered it a valid username.
+            </summary>
+            <param name="input">A value of type string.</param>
+            <returns>A value of type string with all specified characters removed.</returns>
+        </member>
+        <member name="M:StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Removes all characters that are not latin letters, numbers, dot, dash or underscore from the input string. 
+            Returns the modified string and considered it a valid filename.
+            </summary>
+            <param name="input">A value of type string.</param>
+            <returns>A value of type string with all specified characters removed.</returns>
+        </member>
+        <member name="M:StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Returns the first charsCount characters of the input string.
+            </summary>
+            <param name="input">A value of type string.</param>
+            <param name="charsCount">Number of characters to be returned.</param>
+            <returns>A value of type string, substring of the input string.</returns>
+        </member>
+        <member name="M:StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            Gets the extension of the specified file. If file doesn't exist, returns null.
+            </summary>
+            <param name="fileName">The name of the file.</param>
+            <returns>The extension of the file in string format.</returns>
+        </member>
+        <member name="M:StringExtensions.ToContentType(System.String)">
+            <summary>
+            Returns the content type of a given file.
+            </summary>
+            <param name="fileExtension">The file extension.</param>
+            <returns>A string containing the content type of the provided file extension.</returns>
+        </member>
+        <member name="M:StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Returns an array of bytes where each symbol of the input string is converted to its ASCII representation.
+            </summary>
+            <param name="input">A value of type string</param>
+            <returns>A byte array.</returns>
+        </member>
+    </members>
+</doc>

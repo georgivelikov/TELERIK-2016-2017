@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+  <album>
+    <name>Album 1</name>
+    <artist>Artist 2</artist>
+    <price>7.99</price>
+  </album>
+  <album>
+    <name>Album 2</name>
+    <artist>Artist 1</artist>
+    <price>INVALID PRICE</price>
+  </album>
+</catalog>

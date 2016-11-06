@@ -1,0 +1,31 @@
+<h1>USER PAGE</h1>
+<h3>{{this.username}}</h3>
+<div class="user-materials">
+    <h3>Want-to-watch materials:</h3>
+    {{#each this.wanted}}
+    <div class="user-material">
+        <label>Title:</label><br />
+        <span>{{this.title}}</span><br />
+        <label>Category:</label><br />
+        <span>{{this.category}}</span><br />
+    </div>
+    {{/each}}
+    <h3>Watched materials:</h3>
+    {{#each this.watched}}
+    <div class="user-material">
+        <label>Title:</label><br />
+        <span>{{this.title}}</span><br />
+        <label>Category:</label><br />
+        <span>{{this.category}}</span><br />
+    </div>
+    {{/each}}
+    <h3>Watching materials:</h3>
+    {{#each this.watching}}
+    <div class="user-material">
+        <label>Title:</label><br />
+        <span>{{this.title}}</span><br />
+        <label>Category:</label><br />
+        <span>{{this.category}}</span><br />
+    </div>
+    {{/each}}
+</div>

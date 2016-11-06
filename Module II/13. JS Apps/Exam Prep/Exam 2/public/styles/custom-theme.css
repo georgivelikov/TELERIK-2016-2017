@@ -1,0 +1,25 @@
+#login-control {
+    margin: 10px;
+    margin-right: 50px;
+}
+.form-login, .form-register {
+    width: 250px;
+    margin: 10px;
+}
+.cookie-holder {
+    margin: 10px;
+    margin-left: 50px;
+}
+.cookie-img {
+    width: 250px;
+    height: 250px;
+}
+.span-bold {
+    font-weight: bold
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}

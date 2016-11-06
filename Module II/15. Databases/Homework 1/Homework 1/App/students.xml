@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+<students xmlns:students="urn:students">
+  <students:student>
+    <students:name>
+      Georgi Georgiev Georgiev
+    </students:name>
+    <students:sex>
+      Male
+    </students:sex>
+    <students:birth-date>
+      21.08.2000
+    </students:birth-date>
+    <students:phone> 
+      088888888
+    </students:phone>
+    <students:email>
+      somemail@gmail.com
+    </students:email>
+    <students:course>
+      First
+    </students:course>
+    <students:specialty>
+      Finance
+    </students:specialty>
+    <students:faculty-number>
+      123456789
+    </students:faculty-number>
+    <students:exams xmlns:exams="urn:exams">
+      <exams:exam>
+        <exams:name>
+          Some Exam 1
+        </exams:name>
+        <exams:tutor>
+          Ivan Ivanov
+        </exams:tutor>
+        <exams:score>
+          6
+        </exams:score>
+        <exams:name>
+            Some Exam2
+          </exams:name>
+        <exams:tutor>
+            Ivan Ivanov
+          </exams:tutor>
+        <exams:score>
+            4.5
+          </exams:score>
+        </exams:exam>
+    </students:exams>
+  </students:student>
+  <students:student>
+    <students:name>
+      Ivana Ivanova Ivanova
+    </students:name>
+    <students:sex>
+      Female
+    </students:sex>
+    <students:birth-date>
+      21.08.2000
+    </students:birth-date>
+    <students:phone>
+      088888888
+    </students:phone>
+    <students:email>
+      somemail123@gmail.com
+    </students:email>
+    <students:course>
+      Second
+    </students:course>
+    <students:specialty>
+      Finance
+    </students:specialty>
+    <students:faculty-number>
+      232313123123
+    </students:faculty-number>
+    <exams xmlns:exams="urn:exams">
+      <exams:exam>
+        <exams:name>
+          Some Exam 1
+        </exams:name>
+        <exams:tutor>
+          Ivan Ivanov
+        </exams:tutor>
+        <exams:score>
+          3
+        </exams:score>
+        <exams:name>
+          Some Exam2
+        </exams:name>
+        <exams:tutor>
+          Ivan Ivanov
+        </exams:tutor>
+        <exams:score>
+          3
+        </exams:score>
+      </exams:exam>
+    </exams>
+  </students:student>
+</students>

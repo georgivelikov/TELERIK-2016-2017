@@ -1,0 +1,39 @@
+<div id="single-material-holder">
+    <img src="{{this.img}}" alt="none" class="material-img"><br />
+    <label class="material-label">Title:</label>
+    <span">{{this.title}}</span><br />
+    <label class="material-label">Created on:</label>
+    <span>{{this.createdOn}}</span><br />
+    <label class="material-label">Description:</label>
+    <span>{{this.description}}</span><br />
+    <label class="material-label">Creator:</label>
+    <a href="#/profiles/{{this.user.username}}">{{this.user.username}}</a><br />
+    <div id="comments-holder">
+        <h5>Comments:</h5>
+        {{#each this.comments}}
+        <div class="comment">
+           <label class="comment-author">Author:</label>
+           <a href="#/profiles/{{this.user.username}}">{{this.user.username}}</a><br />
+           <label class="comment-text">Text:</label>
+           <span>{{this.text}}</span><br /> 
+        </div>
+        {{/each}}
+    </div>
+    <button id="leave-comment">
+        LEAVE COMMENT
+    </button> <br />
+    <textarea id="comment-area" cols="30" rows="10">
+
+    </textarea>
+    <br />
+    <br />
+    <button id="assign-btn">
+        ASSIGN STATUS
+    </button> <br />
+    <select id="category-select">
+        <option value="watched">watched</option>
+        <option value="watching">watching</option>
+        <option value="want-to-watch">want-to-watch</option>
+    </select>
+
+</div>

@@ -1,0 +1,14 @@
+In computing, Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding 
+documents in a format that is both human-readable and machine-readable. The W3C's XML 1.0 Specification 
+and several other related specifications,all of them free open standards—define XML.
+
+XML is a universal format for structured documents and data on the web. In other words, 
+it is used to markup or describe data.
+Since XML stores data in plain text format, the storage is independent of your platform and 
+your data can be exported, imported, or simply moved much easier.
+
+XML namespaces are used for providing uniquely named elements and attributes in an XML document. 
+They are defined in a W3C recommendation.[1][2] An XML instance may contain element or attribute 
+names from more than one XML vocabulary. If each vocabulary is given a namespace, the ambiguity 
+between identically named elements or attributes can be resolved.
+XML Namespaces provide a method to avoid element name conflicts.

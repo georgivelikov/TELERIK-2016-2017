@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+    <!--<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">-->
+    <link rel="stylesheet" href="styles/flatly-theme.css">
+    <link rel="stylesheet" href="styles/custom-theme.css">
+</head>
+<body>
+    <header class="position-fixed">
+        <nav class="navbar navbar-default">
+            <a href="#/" class="navbar-brand" id="navbar-brand-id">CROWD SHARE</a>
+
+            <div class="navbar-right" id="login-control">
+                <a id="nav-btn-login" class="btn btn-info" href="#/login">Login</a>
+                <a id="nav-btn-register" class="btn btn-info" href="#/register">Register</a>
+                <a id="nav-btn-logout" class="btn btn-info hidden" href="#/">Logout</a>
+            </div>
+        </nav>
+    </header>
+
+    <main id="content">
+        
+    </main>
+    
+    <!--LIBS-->
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/handlebars/handlebars.js"></script>
+    <script src="bower_components/crypto-js/crypto-js.js"></script>
+    <script src="bower_components/sammy/lib/sammy.js"></script>
+    <!--SCRIPTS-->
+    <script src="scripts/templateLoader.js"></script>
+    <script src="scripts/controller.js"></script>
+    <script src="scripts/dataService.js"></script>
+    <script src="scripts/requester.js"></script>
+    <script src="scripts/main.js"></script>
+</body>
+</html>

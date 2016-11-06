@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<albums>
+		<book>
+				<title>Master of Puppets</title>
+				<author>Metallica</author>
+		</book>
+		<book>
+				<title>Death Magnetic</title>
+				<author>Metallica</author>
+		</book>
+		<book>
+				<title>...And Justice for All</title>
+				<author>Metallica</author>
+		</book>
+		<book>
+				<title>Let There Be Rock</title>
+				<author>AC/DC</author>
+		</book>
+		<book>
+				<title>T.N.T.</title>
+				<author>AC/DC</author>
+		</book>
+		<book>
+				<title>Nevermind</title>
+				<author>Nirvana</author>
+		</book>
+</albums>

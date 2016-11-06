@@ -1,0 +1,4 @@
+Bottleneck is in OrbitCalculator.cs class in EarthRotation() on lines 96 - 98.
+EarthRotationAngle is calculated in a loop 7 200 000 times before reaching the needed value of 360 each time the method is called.
+
+I am using VisualStudio Performace and Diagnostic tools.

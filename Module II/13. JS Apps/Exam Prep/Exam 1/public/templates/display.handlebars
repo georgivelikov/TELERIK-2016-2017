@@ -1,0 +1,12 @@
+<div id="display-post-holder">
+{{#each this}}
+<div id="single-post-display">
+    <strong>Title: </strong><span>{{title}}</span><br />
+    <strong>Date: </strong><span>{{postDate}}</span><br />
+    <strong>Created by: </strong><span>{{user.username}}</span><br />
+    <span>{{body}}</span><br /><br />
+</div>
+{{/each}}
+</div>
+<button id="prev">Prev</button>
+<button id="next">Next</button>

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars.Models", "Cars.Models\Cars.Models.csproj", "{56BDC9DE-D8F6-405A-8A43-DE612C32D84F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars.Data", "Cars.Data\Cars.Data.csproj", "{C132ED87-80A4-46CE-AB67-448DB63DD6FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars.ConsoleTester", "Cars.ConsoleTester\Cars.ConsoleTester.csproj", "{264C5CCB-5D7B-41A2-86AE-85D96DFEFB39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonImporter", "JsonImporter\JsonImporter.csproj", "{C3996BE6-1C3C-43A4-B884-ACE0FE045C38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56BDC9DE-D8F6-405A-8A43-DE612C32D84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BDC9DE-D8F6-405A-8A43-DE612C32D84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BDC9DE-D8F6-405A-8A43-DE612C32D84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BDC9DE-D8F6-405A-8A43-DE612C32D84F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C132ED87-80A4-46CE-AB67-448DB63DD6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C132ED87-80A4-46CE-AB67-448DB63DD6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C132ED87-80A4-46CE-AB67-448DB63DD6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C132ED87-80A4-46CE-AB67-448DB63DD6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264C5CCB-5D7B-41A2-86AE-85D96DFEFB39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264C5CCB-5D7B-41A2-86AE-85D96DFEFB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264C5CCB-5D7B-41A2-86AE-85D96DFEFB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264C5CCB-5D7B-41A2-86AE-85D96DFEFB39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3996BE6-1C3C-43A4-B884-ACE0FE045C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3996BE6-1C3C-43A4-B884-ACE0FE045C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3996BE6-1C3C-43A4-B884-ACE0FE045C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3996BE6-1C3C-43A4-B884-ACE0FE045C38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

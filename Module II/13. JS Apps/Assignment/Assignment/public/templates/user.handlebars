@@ -1,0 +1,12 @@
+<h1>USER PAGE</h1>
+<h3>{{this.username}}</h3>
+<div class="user-materials">
+    {{#each this.userMaterials}}
+    <div class="user-material">
+        <label>Title:</label><br />
+        <span>{{this.title}}</span><br />
+        <label>Category:</label><br />
+        <span>{{this.category}}</span><br />
+    </div>
+    {{/each}}
+</div>

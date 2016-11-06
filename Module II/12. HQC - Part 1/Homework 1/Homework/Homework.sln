@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1 - Bunnies", "Task 1 - Bunnies\Task 1 - Bunnies.csproj", "{1533F3A6-202B-4135-8C38-069C41AC1DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2 - Events", "Task 2 - Events\Task 2 - Events.csproj", "{BD35557F-7FE5-46EE-BE8A-BE291DCDC782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1533F3A6-202B-4135-8C38-069C41AC1DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1533F3A6-202B-4135-8C38-069C41AC1DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1533F3A6-202B-4135-8C38-069C41AC1DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1533F3A6-202B-4135-8C38-069C41AC1DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD35557F-7FE5-46EE-BE8A-BE291DCDC782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD35557F-7FE5-46EE-BE8A-BE291DCDC782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD35557F-7FE5-46EE-BE8A-BE291DCDC782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD35557F-7FE5-46EE-BE8A-BE291DCDC782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

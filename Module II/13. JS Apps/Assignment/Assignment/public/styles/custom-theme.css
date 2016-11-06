@@ -1,0 +1,39 @@
+#login-control {
+    margin: 10px;
+    margin-right: 50px;
+}
+.form-login, .form-register {
+    width: 250px;
+    margin: 10px;
+}
+.material, #single-material-holder {
+    margin: 20px;
+}
+.material-img {
+    width:250px;
+    height: 250px;
+}
+.comment {
+    margin: 5px;
+}
+#aside-nav {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+#search-bar {
+    margin:2px;
+}
+.left {
+    float: left;
+}
+#text-bar{
+    margin: 3px;
+}
+.user-materials {
+    margin: 10px;
+}
+.user-material {
+    margin: 5px;
+    border: 1px solid black;
+}

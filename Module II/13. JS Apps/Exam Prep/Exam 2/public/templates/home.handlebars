@@ -1,0 +1,24 @@
+<h1>THIS IS HOME PAGE</h1>
+
+<aside>
+    <div>
+        <h3>Add a cookie:</h3>
+        <label for="">Category:</label><br />
+        <input type="text" id="cookie-category"><br />
+        <label for="">Img source:</label><br />
+        <input type="text" id="cookie-img-url"><br />
+        <label for="">Text:</label><br />
+        <textarea id="cookie-text"></textarea><br /><br />
+        <button id="add-cookie-btn">Share</button>
+    </div>
+</aside>
+<hr>
+{{#each this}}
+<div class="cookie-holder">
+    <img src="{{img}}" alt="none" class="cookie-img"><br />
+    <span class="span-bold">Text:</span><span class="cookie-text">{{text}}</span><br />
+    <span class="span-bold">Category:</span><a href="#/home/?category={{category}}" class="cookie-category">{{category}}</a><br />
+    <button class="span-bold like-button" cookie-id="{{id}}">Likes:</button><span id="like-{{id}}">{{likes}}</span><br />
+    <button class="span-bold dislikebutton" cookie-id="{{id}}">Dislikes:</button><span id="dislike-{{id}}">{{dislikes}}</span><br />
+</div>
+{{/each}}

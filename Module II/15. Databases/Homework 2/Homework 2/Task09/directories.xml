@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<directories>
+		<dir>bin</dir>
+		<dir>obj</dir>
+		<dir>Properties</dir>
+		<file>App.config</file>
+		<file>directories.xml</file>
+		<file>Start.cs</file>
+		<file>Task09.csproj</file>
+</directories>

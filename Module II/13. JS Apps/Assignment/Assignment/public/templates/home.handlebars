@@ -1,0 +1,29 @@
+<h1>THIS IS HOME PAGE</h1>
+<aside id="aside-nav" class="left">
+    <div class="aside-div" id="search-div">
+        <label for="">Search</label><br />
+        <input type="text" id="search-bar" placeholder="Search by title, user or description"><br />
+        <button id="search-btn">Search</button><br />
+    </div>
+    <div class="aside-div" id="new-matearil-div">
+        <label for="">Add new Material</label><br />
+        <input type="text" id="title-bar" placeholder="new title"><br />
+        <textarea id="text-bar"></textarea><br />
+        <input type="text" id="img-bar" placeholder="img url"><br />
+        <button id="add-btn">Add</button><br />
+    </div>
+</aside>
+<div id="materials-holder" class="left">
+{{#each this}}
+    <div class="material">
+        <img src="{{img}}" alt="none" class="material-img"><br />
+        <label class="material-label">Title:</label>
+        <a href="#/materials/{{id}}">{{title}}</a><br />
+        <label class="material-label">Created on:</label>
+        <span>{{createdOn}}</span><br />
+        <label class="material-label">Description:</label>
+        <span>{{description}}</span><br />
+    </div>
+{{/each}}
+</div>
+

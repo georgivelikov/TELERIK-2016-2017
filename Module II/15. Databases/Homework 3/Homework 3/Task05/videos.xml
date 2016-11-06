@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="videos.xslt"?>
+<videos>
+  <video>
+    <title>Оператори и изрази в C#</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=qOiNmRplOzY</link>
+  </video>
+  <video>
+    <title>Бази данни &amp; SQL: Въведение в SQL - част 1</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=dh82S8ejtGU</link>
+  </video>
+  <video>
+    <title>Бази данни &amp; SQL: Въведение в SQL - част 2</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=fyM0mPb6eU0</link>
+  </video>
+  <video>
+    <title>Типове данни и променливи в C#</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=y7cIgoaratc</link>
+  </video>
+  <video>
+    <title>Примитивни типове данни и променливи</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=tJ0f_B5SYiw</link>
+  </video>
+  <video>
+    <title>Основи на Уеб</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=PhbkdUxwPo4</link>
+  </video>
+  <video>
+    <title>Моделиране на данни и E/R диаграми</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=RoidEi-R-yU</link>
+  </video>
+  <video>
+    <title>Представяне на курса</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=k96tKkbMma8</link>
+  </video>
+  <video>
+    <title>Бази от данни &amp; SQL: Въведение в базите данни</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=8_SOTdfAJwI</link>
+  </video>
+  <video>
+    <title>Бази от данни &amp; SQL: Microsoft SQL Server и MySQL</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=qvSkCv9GyPY</link>
+  </video>
+  <video>
+    <title>Основи на Уеб</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=gQZ9ACoCvf4</link>
+  </video>
+  <video>
+    <title>Въведение в курса</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=GiB8_7f--Ms</link>
+  </video>
+  <video>
+    <title>SOLID и други принципи</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=JXARonG9LVw</link>
+  </video>
+  <video>
+    <title>Въведение в шаблоните за дизайн</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=KiQENaiijPQ</link>
+  </video>
+  <video>
+    <title>Примитивни типове данни и променливи</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=AkDA4K710TE</link>
+  </video>
+  <video>
+    <title>Оператори и изрази в C#</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=qOiNmRplOzY</link>
+  </video>
+  <video>
+    <title>Бази данни &amp; SQL: Въведение в SQL - част 1</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=dh82S8ejtGU</link>
+  </video>
+  <video>
+    <title>Бази данни &amp; SQL: Въведение в SQL - част 2</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=fyM0mPb6eU0</link>
+  </video>
+  <video>
+    <title>Типове данни и променливи в C#</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=y7cIgoaratc</link>
+  </video>
+  <video>
+    <title>Примитивни типове данни и променливи</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=tJ0f_B5SYiw</link>
+  </video>
+  <video>
+    <title>Основи на Уеб</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=PhbkdUxwPo4</link>
+  </video>
+  <video>
+    <title>Моделиране на данни и E/R диаграми</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=RoidEi-R-yU</link>
+  </video>
+  <video>
+    <title>Представяне на курса</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=k96tKkbMma8</link>
+  </video>
+  <video>
+    <title>Бази от данни &amp; SQL: Въведение в базите данни</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=8_SOTdfAJwI</link>
+  </video>
+  <video>
+    <title>Бази от данни &amp; SQL: Microsoft SQL Server и MySQL</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=qvSkCv9GyPY</link>
+  </video>
+  <video>
+    <title>Основи на Уеб</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=gQZ9ACoCvf4</link>
+  </video>
+  <video>
+    <title>Въведение в курса</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=GiB8_7f--Ms</link>
+  </video>
+  <video>
+    <title>SOLID и други принципи</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=JXARonG9LVw</link>
+  </video>
+  <video>
+    <title>Въведение в шаблоните за дизайн</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=KiQENaiijPQ</link>
+  </video>
+  <video>
+    <title>Примитивни типове данни и променливи</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=AkDA4K710TE</link>
+  </video>
+  <video>
+    <title>Оператори и изрази в C#</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=qOiNmRplOzY</link>
+  </video>
+  <video>
+    <title>Бази данни &amp; SQL: Въведение в SQL - част 1</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=dh82S8ejtGU</link>
+  </video>
+  <video>
+    <title>Бази данни &amp; SQL: Въведение в SQL - част 2</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=fyM0mPb6eU0</link>
+  </video>
+  <video>
+    <title>Типове данни и променливи в C#</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=y7cIgoaratc</link>
+  </video>
+  <video>
+    <title>Примитивни типове данни и променливи</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=tJ0f_B5SYiw</link>
+  </video>
+  <video>
+    <title>Основи на Уеб</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=PhbkdUxwPo4</link>
+  </video>
+  <video>
+    <title>Моделиране на данни и E/R диаграми</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=RoidEi-R-yU</link>
+  </video>
+  <video>
+    <title>Представяне на курса</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=k96tKkbMma8</link>
+  </video>
+  <video>
+    <title>Бази от данни &amp; SQL: Въведение в базите данни</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=8_SOTdfAJwI</link>
+  </video>
+  <video>
+    <title>Бази от данни &amp; SQL: Microsoft SQL Server и MySQL</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=qvSkCv9GyPY</link>
+  </video>
+  <video>
+    <title>Основи на Уеб</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=gQZ9ACoCvf4</link>
+  </video>
+  <video>
+    <title>Въведение в курса</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=GiB8_7f--Ms</link>
+  </video>
+  <video>
+    <title>SOLID и други принципи</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=JXARonG9LVw</link>
+  </video>
+  <video>
+    <title>Въведение в шаблоните за дизайн</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=KiQENaiijPQ</link>
+  </video>
+  <video>
+    <title>Примитивни типове данни и променливи</title>
+    <author>TelerikAcademy</author>
+    <link>http://www.youtube.com/watch?v=AkDA4K710TE</link>
+  </video>
+</videos>

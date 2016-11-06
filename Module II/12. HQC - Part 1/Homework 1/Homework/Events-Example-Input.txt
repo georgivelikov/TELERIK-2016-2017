@@ -1,0 +1,6 @@
+AddEvent|12.12.2015|Some Title|Sofia
+AddEvent|10.12.2015|Other Title|Sofia
+AddEvent|5.12.2015|ExtraTitle|Varna
+DeleteEvent|extraTitle
+ListEvents|1.1.2000|1
+Exit

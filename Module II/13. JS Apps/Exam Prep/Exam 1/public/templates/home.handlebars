@@ -1,0 +1,41 @@
+<h1>THIS IS HOME PAGE</h1>
+
+<div id="nav-holder"  class="float-left">
+    <div id="post-create">
+        <label>Title:</label>
+        <input id="create-title"/>
+        <br />
+        <label>Text:</label>
+        <textarea id="create-text"/>
+        <br />
+        <a class="btn btn-info" id="btn-create">CREATE POST</a>
+    </div>
+    <hr>
+    <div id="post-display">
+        <select id="base-select">
+            <option value="date">Date</option>
+            <option value="title">Title</option>
+        </select>
+        <br />
+        <select id="order-select">
+            <option value="date">Ascending</option>
+            <option value="title">Descending</option>
+        </select>
+        <br />
+        <label for="">Posts on page:</label>
+        <br />
+        <input type="text" id="page-select">
+        <br />
+        <a class="btn btn-info" id="btn-display">DISPLAY</a>
+    </div>
+</div>
+<div id="post-holder" class="float-right">
+    {{#each this}}
+    <div id="single-post">
+        <strong>Title: </strong><span>{{title}}</span><br />
+        <strong>Date: </strong><span>{{postDate}}</span><br />
+        <strong>Created by: </strong><span>{{user.username}}</span><br />
+        <span>{{body}}</span><br /><br />
+    </div>
+    {{/each}}
+</div>

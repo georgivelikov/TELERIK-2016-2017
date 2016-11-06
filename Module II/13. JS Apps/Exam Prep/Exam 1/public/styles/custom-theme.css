@@ -1,0 +1,23 @@
+#login-control {
+    margin: 10px;
+    margin-right: 50px;
+}
+.form-login, .form-register {
+    width: 250px;
+    margin: 10px;
+}
+#btn-create, #create-title, #create-text, #post-create {
+    margin: 5px;
+}
+#post-display, #post-search {
+    margin: 5px
+}
+#base-select, #order-select, #page-select {
+    margin: 5px;
+}
+.float-left {
+    float: left;
+}
+.float-right {
+    float: left;
+}

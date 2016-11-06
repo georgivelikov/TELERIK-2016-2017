@@ -1,0 +1,5 @@
+<project outputDir="D:\TELERIK\14. HQC - Part 2\Homework 4\Confused" baseDir="D:\TELERIK\14. HQC - Part 2\Homework 4" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" preset="normal" inherit="false" />
+  <packer id="compressor" />
+  <module path="..\Homework 3\Homework\WalkInMatrix\bin\Debug\WalkInMatrix.exe" />
+</project>

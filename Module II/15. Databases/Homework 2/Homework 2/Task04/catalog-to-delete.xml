@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+  <album>
+    <name>
+      Master of Puppets
+    </name>
+    <artist type="artistName">
+      Metallica
+    </artist>
+    <year>
+      March 3, 1986
+    </year>
+    <producer>
+      Electra
+    </producer>
+    <price>
+      21.99
+    </price>
+    <songs>
+      <song>
+        <title>
+          Battery
+        </title>
+        <duration>
+          5:12
+        </duration>
+      </song>
+      <song>
+        <title>
+          Master of Puppets
+        </title>
+        <duration>
+          8:36
+        </duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>
+      ...And Justice for All
+    </name>
+    <artist type="artistName">
+      Metallica
+    </artist>
+    <year>
+      August 25, 1988
+    </year>
+    <producer>
+      Electra
+    </producer>
+    <price>
+      22.99
+    </price>
+    <songs>
+      <song>
+        <title>
+          One
+        </title>
+        <duration>
+          7:24
+        </duration>
+      </song>
+      <song>
+        <title>
+          Harvester of Sorrow
+        </title>
+        <duration>
+          5:42
+        </duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>
+      Let There Be Rock
+    </name>
+    <artist type="artistName">
+      AC/DC
+    </artist>
+    <year>
+      21 March, 1977
+    </year>
+    <producer>
+      Albert
+    </producer>
+    <price>
+      12.99
+    </price>
+    <songs>
+      <song>
+        <title>
+          Whole Lotta Rosie
+        </title>
+        <duration>
+          5:22
+        </duration>
+      </song>
+      <song>
+        <title>
+          Hell Ain't a Bad Place to Be
+        </title>
+        <duration>
+          4:15
+        </duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>
+      T.N.T.
+    </name>
+    <artist type="artistName">
+      AC/DC
+    </artist>
+    <year>
+      1 December, 1975
+    </year>
+    <producer>
+      Albert
+    </producer>
+    <price>
+      13.99
+    </price>
+    <songs>
+      <song>
+        <title>
+          The Jack
+        </title>
+        <duration>
+          5:52
+        </duration>
+      </song>
+      <song>
+        <title>
+          High Voltage
+        </title>
+        <duration>
+          4:02
+        </duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>
+      Nevermind
+    </name>
+    <artist type="artistName">
+      Nirvana
+    </artist>
+    <year>
+      September 24, 1991
+    </year>
+    <producer>
+      Jack Endino
+    </producer>
+    <price>
+      11.99
+    </price>
+    <songs>
+      <song>
+        <title>
+          Come as You Are
+        </title>
+        <duration>
+          3:40
+        </duration>
+      </song>
+      <song>
+        <title>
+          In Bloom
+        </title>
+        <duration>
+          4:16
+        </duration>
+      </song>
+    </songs>
+  </album>
+</catalog>
+

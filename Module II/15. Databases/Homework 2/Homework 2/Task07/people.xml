@@ -1,0 +1,17 @@
+<people>
+  <person>
+    <name>Petar Ivanov</name>
+    <address>Varna, ulica no 1</address>
+    <phone>0885 421 987</phone>
+  </person>
+  <person>
+    <name>Georgi Petrov</name>
+    <address>Sofia, Cherni Vrah 2</address>
+    <phone>0885 466 666</phone>
+  </person>
+  <person>
+    <name>Ivan Georgiev</name>
+    <address>Plovdiv, ulica no 11</address>
+    <phone>0885 333 933</phone>
+  </person>
+</people>

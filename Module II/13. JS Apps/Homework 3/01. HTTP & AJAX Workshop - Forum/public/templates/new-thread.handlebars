@@ -1,0 +1,27 @@
+<div class="thread" data-id="{{id}}">
+    <div><h3><a class="thread-title" href="#/threads">{{title}}</a></h3></div>
+    <div>
+        <p>
+            <span>Created on </span>
+            <span class="thread-date">
+<!--
+    The response from the server for the newly created thread, that I build my template on, contains postDate, no matter if there is 
+    logged user or not, which is incorrect. Only username is null, thats why I use it when creating postDate span, it is not a mistake
+-->
+                {{#if username}}
+                    {{postDate}}
+                {{else}}
+                    unknown
+                {{/if}}
+            </span>
+            by
+            <a class="thread-creator" href="#/threads">
+                {{#if username}}
+                    {{username}}
+                {{else}}
+                    anonymous
+                {{/if}}
+            </a>
+        </p>
+    </div>
+</div>

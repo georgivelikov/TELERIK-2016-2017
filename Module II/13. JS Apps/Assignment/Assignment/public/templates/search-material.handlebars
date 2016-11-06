@@ -1,0 +1,14 @@
+<h1>Search results:</h1>
+<div id="materials-holder" class="left">
+{{#each this}}
+    <div class="material">
+        <img src="{{img}}" alt="none" class="material-img"><br />
+        <label class="material-label">Title:</label>
+        <a href="#/materials/{{id}}">{{title}}</a><br />
+        <label class="material-label">Created on:</label>
+        <span>{{createdOn}}</span><br />
+        <label class="material-label">Description:</label>
+        <span>{{description}}</span><br />
+    </div>
+{{/each}}
+</div>

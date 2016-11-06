@@ -1,0 +1,45 @@
+ <div id="container-threads" class="col-xs-4">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title">Threads</h3>
+        </div>
+        <div id="threads" class="panel-body">
+            <div id="threads-rapper">
+            {{#each this}}
+                <div class="thread" data-id="{{this.id}}">
+                    <div><h3><a class="thread-title" href="#/threads">{{this.title}}</a></h3></div>
+                    <div>
+                        <p>
+                            <span>Created on </span>
+                            <span class="thread-date">
+                                {{#if this.postDate}}
+                                    {{this.postDate}}
+                                {{else}}
+                                    unknown
+                                {{/if}}
+                            </span>
+                            by
+                            <a class="thread-creator" a="#/threads">
+                                {{#if this.username}}
+                                    {{this.username}}
+                                {{else}}
+                                    anonymous
+                                {{/if}}
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            {{/each}}
+            </div>
+            <form id="thread-navbar" class="navbar-form navbar-left" role="search">
+                <h4>Create new Thread:</h4>
+                <div class="input-group">
+                    <input id="input-add-thread" class="thread-title form-control" placeholder="Thread Title" />
+                    <span class="input-group-btn">
+                    <a id="btn-add-thread" class="btn btn-success">Add</a>
+                    </span>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

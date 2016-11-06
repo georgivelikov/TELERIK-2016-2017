@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:exams="urn:exams" xmlns:students="urn:students" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="urn:students" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="urn:exams" />
+  <xs:element name="students">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="student">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string" />
+              <xs:element name="sex" type="xs:string" />
+              <xs:element name="birth-date" type="xs:string" />
+              <xs:element name="phone" type="xs:unsignedInt" />
+              <xs:element name="email" type="xs:string" />
+              <xs:element name="course" type="xs:string" />
+              <xs:element name="specialty" type="xs:string" />
+              <xs:element name="faculty-number" type="xs:unsignedInt" />
+              <xs:element name="exams">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element ref="exams:exam" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

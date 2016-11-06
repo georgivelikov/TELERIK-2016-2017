@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+</head>
+<body>
+    <h1>I am page 1</h1>
+    <div id="simple-div" style="display:none"><h3>You will be redirected to page 2 after 2 seconds</h3></div>
+    <a href="#" id="button">Click here to redirect</a>
+
+    <script src="task-2.js"></script>
+    <script>
+        var addressToRedirect = "redirected/page2.html";
+        attatchRedirectEvent(addressToRedirect);
+    </script>
+    
+</body>
+</html>

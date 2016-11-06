@@ -1,0 +1,12 @@
+﻿Bottleneck description: --------------------
+#1: WriteLine() method in Startup Engine with useless for-cycle and Thread.Sleep();
+
+
+Bug reports: --------------------
+Format: #Bug number - Class name - Bug description
+Example: #1 - PartnerBankingService - The variable "money" at line 36 overflows when you try to add more than 2.1 billion dollars.
+--------
+#1 - Student - There is no message when student has now marks to show in ListMarks() is called;
+#2 - Grade - There are no grade for grade 1-7
+#3 - CreateStudentCommand - Does not implement ICommand, there for student can not be created vie reflection
+#4 - Student - No message "The student has these marks:" when ListMarks() is called

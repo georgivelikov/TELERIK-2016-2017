@@ -1,0 +1,6 @@
+http://stackoverflow.com/questions/358196/c-sharp-internal-access-modifier-when-doing-unit-testing
+only the second line
+
+[assembly: InternalsVisibleTo("Tests")]
+
+[assembly: InternalsVisibleTo("DynamicProxyGenAssembly2")]
