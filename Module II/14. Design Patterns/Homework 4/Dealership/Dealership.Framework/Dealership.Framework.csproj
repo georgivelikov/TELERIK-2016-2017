@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{11F6154A-60E1-49FF-AC03-17B6A7A4DAA4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dealership.Framework</RootNamespace>
+    <AssemblyName>Dealership.Framework</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommandProcessors\AddCommentProcessor.cs" />
+    <Compile Include="CommandProcessors\AddVehicleProcessor.cs" />
+    <Compile Include="CommandProcessors\LoginProcessor.cs" />
+    <Compile Include="CommandProcessors\LogoutProcessor.cs" />
+    <Compile Include="CommandProcessors\RegisterProcessor.cs" />
+    <Compile Include="CommandProcessors\RemoveCommentProcessor.cs" />
+    <Compile Include="CommandProcessors\RemoveVehicleProcessor.cs" />
+    <Compile Include="CommandProcessors\ShowUsersProcessor.cs" />
+    <Compile Include="CommandProcessors\ShowVehiclesProcessor.cs" />
+    <Compile Include="Common\Constants.cs" />
+    <Compile Include="Common\Enums\Role.cs" />
+    <Compile Include="Common\Enums\VehicleType.cs" />
+    <Compile Include="Common\Validator.cs" />
+    <Compile Include="Contracts\ICar.cs" />
+    <Compile Include="Contracts\IComment.cs" />
+    <Compile Include="Contracts\ICommentable.cs" />
+    <Compile Include="Contracts\IMotorcycle.cs" />
+    <Compile Include="Contracts\IPriceable.cs" />
+    <Compile Include="Contracts\ITruck.cs" />
+    <Compile Include="Contracts\IUser.cs" />
+    <Compile Include="CommandProcessors\CommandProcessor.cs" />
+    <Compile Include="CommandProcessors\ICommandProcessor.cs" />
+    <Compile Include="UserService\IUserService.cs" />
+    <Compile Include="Contracts\IVehicle.cs" />
+    <Compile Include="Models\Command.cs" />
+    <Compile Include="Engine\ConsoleInputOutputProvider.cs" />
+    <Compile Include="Engine\DealershipEngine.cs" />
+    <Compile Include="Contracts\ICommand.cs" />
+    <Compile Include="Engine\IEngine.cs" />
+    <Compile Include="Engine\IInputOutputProvider.cs" />
+    <Compile Include="UserService\UserService.cs" />
+    <Compile Include="Factories\ICommandFactory.cs" />
+    <Compile Include="Factories\ICommentFactory.cs" />
+    <Compile Include="Factories\IModelFactory.cs" />
+    <Compile Include="Factories\IUserFactory.cs" />
+    <Compile Include="Models\Car.cs" />
+    <Compile Include="Models\Comment.cs" />
+    <Compile Include="Models\Motorcycle.cs" />
+    <Compile Include="Models\Truck.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Models\Vehicle.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
