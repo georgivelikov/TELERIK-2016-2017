@@ -1,0 +1,26 @@
+<fractions>
+  <fraction id="1" membersCount="1">
+    <name>Justice League</name>
+    <planets>
+      <planet>Earth</planet>
+    </planets>
+  </fraction>
+  <fraction id="2" membersCount="2">
+    <name>The Bat Family</name>
+    <planets>
+      <planet>Earth</planet>
+    </planets>
+  </fraction>
+  <fraction id="3" membersCount="2">
+    <name>Avengers</name>
+    <planets>
+      <planet>Earth</planet>
+    </planets>
+  </fraction>
+  <fraction id="4" membersCount="1">
+    <name>Illuminati</name>
+    <planets>
+      <planet>Earth</planet>
+    </planets>
+  </fraction>
+</fractions>

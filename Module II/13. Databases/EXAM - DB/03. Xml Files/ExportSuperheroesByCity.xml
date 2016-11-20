@@ -1,0 +1,23 @@
+<superheroes>
+  <superhero id="3">
+    <name>Ironman</name>
+    <secretIdentity>Tonny Stark</secretIdentity>
+    <alignment>GOOD</alignment>
+    <powers>
+      <power>Intelligence</power>
+      <power>Big robot suit</power>
+    </powers>
+    <city>New York, USA, Earth</city>
+  </superhero>
+  <superhero id="4">
+    <name>Dr. Stephen Strange</name>
+    <secretIdentity>Dr. Stephen Strange</secretIdentity>
+    <alignment>GOOD</alignment>
+    <powers>
+      <power>Magic</power>
+      <power>Dimensional travel</power>
+      <power>Martial arts</power>
+    </powers>
+    <city>New York, USA, Earth</city>
+  </superhero>
+</superheroes>

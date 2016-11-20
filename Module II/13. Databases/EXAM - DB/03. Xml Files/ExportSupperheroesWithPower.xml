@@ -1,0 +1,44 @@
+<superheroes>
+  <superhero id="1">
+    <name>Batman</name>
+    <secretIdentity>Bruce Wayne</secretIdentity>
+    <alignment>GOOD</alignment>
+    <powers>
+      <power>Utility belt</power>
+      <power>Intelligence</power>
+      <power>Martial arts</power>
+    </powers>
+    <city>Gotham, USA, Earth</city>
+  </superhero>
+  <superhero id="2">
+    <name>Nightwing</name>
+    <secretIdentity>Dick Grayson</secretIdentity>
+    <alignment>GOOD</alignment>
+    <powers>
+      <power>Acrobatics</power>
+      <power>Martial arts</power>
+    </powers>
+    <city>Gotham, USA, Earth</city>
+  </superhero>
+  <superhero id="4">
+    <name>Dr. Stephen Strange</name>
+    <secretIdentity>Dr. Stephen Strange</secretIdentity>
+    <alignment>GOOD</alignment>
+    <powers>
+      <power>Magic</power>
+      <power>Dimensional travel</power>
+      <power>Martial arts</power>
+    </powers>
+    <city>New York, USA, Earth</city>
+  </superhero>
+  <superhero id="7">
+    <name>Deadpool</name>
+    <secretIdentity>Wade Wilson</secretIdentity>
+    <alignment>EVIL</alignment>
+    <powers>
+      <power>Martial arts</power>
+      <power>Healing</power>
+    </powers>
+    <city>Detroit, USA, Earth</city>
+  </superhero>
+</superheroes>

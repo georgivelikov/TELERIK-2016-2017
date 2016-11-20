@@ -1,0 +1,9 @@
+<fraction id="1" membersCount="1">
+  <name>Justice League</name>
+  <planets>
+    <planet>Earth</planet>
+  </planets>
+  <members>
+    <member>Batman</member>
+  </members>
+</fraction>
