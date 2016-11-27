@@ -1,0 +1,15 @@
+extends ../base
+block content
+    h1 Favorites
+    each val in user.favorites
+        div
+            span Name: #{val.name}
+            br
+            span Secret identity: #{val.secretIdentity}
+            br
+            span Story: #{val.story}
+            br
+            img(src=""+val.imageUrl width="250" height="250")
+            br
+            a(href="/user/remove-from-favorites?name=" + val.name) Delete
+        br

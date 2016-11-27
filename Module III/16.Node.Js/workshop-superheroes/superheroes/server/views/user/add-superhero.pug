@@ -1,0 +1,15 @@
+extends ../base
+block content
+    h1 Add superhero page
+    form(action="/user/add-superhero" method="post")
+        input.form-control(type="text" id="tb-name" placeholder="Name" name="name" class="form-control")
+        br
+        input.form-control(type="text" id="tb-secretIdentity" placeholder="Secret Identity" name="secretIdentity" class="form-control")
+        br
+        input.form-control(type="text" id="tb-alignement" placeholder="Alignement" name="alignement" class="form-control")
+        br
+        input.form-control(type="text" id="tb-story" placeholder="Story" name="story" class="form-control")
+        br
+        input.form-control(type="text" id="tb-imageUrl" placeholder="Image" name="imageUrl" class="form-control")
+        br
+        input(type="submit" value="Add" class="btn btn-success")

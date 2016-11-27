@@ -1,0 +1,15 @@
+extends ../base
+block content
+    h1 Register page
+    form(action="/auth/register" method="post")
+        h4 Register
+            br
+            input.form-control(type="text" id="tb-username" placeholder="Usename" name="username" class="form-control")
+            br
+            input.form-control(type="password" id="tb-password" placeholder="Password" name="password" class="form-control")
+            br
+            input.form-control(type="text" id="tb-firstname" placeholder="Firstname" name="firstname" class="form-control")
+            br
+            input.form-control(type="text" id="tb-lastname" placeholder="Lastname" name="lastname" class="form-control")
+            br
+        input(type="submit" value="Register" class="btn btn-success")

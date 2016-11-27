@@ -11,7 +11,8 @@ const userSchema = mongoose.Schema({
     lastname: { type: String, required: true },
     passHash: { type: String, required: true },
     salt: { type: String, required: true },
-    roles: [String]
+    roles: [String],
+    favorites: []
 });
 
 userSchema.methods = {

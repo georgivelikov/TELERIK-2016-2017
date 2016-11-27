@@ -1,0 +1,7 @@
+extends ../base
+block content
+    h1 Add superhero page
+    form(action="/user/add-to-favorites" method="post")
+        input.form-control(type="text" id="tb-name" placeholder="Add Name To Favorites" name="name" class="form-control")
+        br
+        input(type="submit" value="Add" class="btn btn-success")
