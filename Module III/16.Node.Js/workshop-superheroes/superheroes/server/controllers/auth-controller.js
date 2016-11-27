@@ -5,11 +5,11 @@ const encryption = require("../utils/encryption");
 const passport = require("passport");
 
 function loadRegisterPage(req, res) {
-    res.render("user/register");
+    res.render("auth/register");
 }
 
 function loadLoginPage(req, res) {
-    res.render("user/login");
+    res.render("auth/login");
 }
 
 function logoutUser(req, res) {

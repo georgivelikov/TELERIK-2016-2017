@@ -27,19 +27,18 @@ module.exports = function(models) {
                 });
             });
         },
-        createSuperhero(name, secretIdentity, alignement, story, imageUrl) {
+        createSuperhero(body) {
             return new Promise((resolve, reject) => {
-                let Superhero = new Superhero ({
-                    name: name,
-                    secretIdentity: secretIdentity,
-                    alignement: alignement,
-                    story: story,
-                    imageUrl: imageUrl,
+                let superhero = new Superhero ({
+                    name: body.name,
+                    secretIdentity: body.secretIdentity,
+                    alignement: body.alignement,
+                    story: body.story,
+                    imageUrl: body.imageUrl,
                     powers: [],
                     fractions: []
                 });
-
-                Superhero.save((err, createdSuperhero) => {
+                superhero.save((err, createdSuperhero) => {
                     if (err) {
                         return reject(err);
                     }

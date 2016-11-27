@@ -1,4 +1,7 @@
 extends ../base
+
 block content
     h1 #{model.content}
-        h2 hehe
+        h5 za tolkova vreme tolkova
+    if user    
+        include ../user/profile
