@@ -2,6 +2,9 @@ extends ../base
 
 block content
     h1 #{model.content}
-        h5 za tolkova vreme tolkova
+        h5 malko, no avtorsko
+    ul
+        li
+            a(href="/all-superheroes") List All Superheroes
     if user    
         include ../user/profile

@@ -1,5 +1,7 @@
 "use strict";
 
+const SuperheroData = require("../data").superheroes;
+
 function loadHomePage(req, res) {
     let user = req.user
     let model = {
@@ -9,4 +11,17 @@ function loadHomePage(req, res) {
     res.render("home/home", { user, model});
 }
 
-module.exports = { loadHomePage };
+function loadAllSuperheroes(req, res) {
+    let user = req.user
+
+    SuperheroData
+        .getAllSuperheroes()
+        .then(superheroes => {
+            res.render("home/all-superheroes", { user, superheroes });
+        });    
+}
+
+module.exports = { 
+    loadHomePage,
+    loadAllSuperheroes
+};
