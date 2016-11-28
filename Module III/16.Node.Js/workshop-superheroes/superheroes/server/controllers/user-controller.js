@@ -1,7 +1,8 @@
 "use strict";
 
-const SuperheroData = require("../data").superheroes;
-const UserData = require("../data").users;
+const data = require("../data");
+const SuperheroData = data.superheroes;
+const UserData = data.users;
 
 function loadAddSuperheroPage(req, res) {
     return res.render("user/add-superhero");
