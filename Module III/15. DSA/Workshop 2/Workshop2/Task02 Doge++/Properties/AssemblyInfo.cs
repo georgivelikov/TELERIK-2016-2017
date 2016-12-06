@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("13. Merge Sort")]
+[assembly: AssemblyTitle("Task02 Doge++")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("13. Merge Sort")]
+[assembly: AssemblyProduct("Task02 Doge++")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("20f7e60b-d617-49fd-b48e-6a35cf281871")]
+[assembly: Guid("0a83e13d-9703-4519-812c-3785648f977f")]
 
 // Version information for an assembly consists of the following four values:
 //

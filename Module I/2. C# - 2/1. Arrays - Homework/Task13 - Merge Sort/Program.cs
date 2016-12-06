@@ -69,7 +69,6 @@ namespace Task13___Merge_Sort
 
                 Array.Copy(temp, 0, array, start, temp.Length);
             }
-
         }
     }
 }
