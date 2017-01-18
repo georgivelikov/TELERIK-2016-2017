@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task01 - Knapsack", "Task01 - Knapsack\Task01 - Knapsack.csproj", "{3D419D8F-C681-48E7-BC62-A214CDD586CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task02 - Minimum Edit Distance", "Task02 - Minimum Edit Distance\Task02 - Minimum Edit Distance.csproj", "{C5F12F23-90B4-487A-9C3B-76DEC5B51176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task03 - AlgoAcademy01", "Task03 - AlgoAcademy01\Task03 - AlgoAcademy01.csproj", "{1D7B3842-B5F0-49ED-A861-EFB6031612E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task04 - AlgoAcademy02", "Task04 - AlgoAcademy02\Task04 - AlgoAcademy02.csproj", "{E339C6DC-7D0C-4D06-AE6E-427320F8CA54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task05 - AlgoAcademy03", "Task05 - AlgoAcademy03\Task05 - AlgoAcademy03.csproj", "{85379A1B-19CB-48E3-B4E7-7A8E9931343E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D419D8F-C681-48E7-BC62-A214CDD586CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D419D8F-C681-48E7-BC62-A214CDD586CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D419D8F-C681-48E7-BC62-A214CDD586CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D419D8F-C681-48E7-BC62-A214CDD586CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F12F23-90B4-487A-9C3B-76DEC5B51176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F12F23-90B4-487A-9C3B-76DEC5B51176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F12F23-90B4-487A-9C3B-76DEC5B51176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F12F23-90B4-487A-9C3B-76DEC5B51176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7B3842-B5F0-49ED-A861-EFB6031612E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7B3842-B5F0-49ED-A861-EFB6031612E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7B3842-B5F0-49ED-A861-EFB6031612E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7B3842-B5F0-49ED-A861-EFB6031612E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E339C6DC-7D0C-4D06-AE6E-427320F8CA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E339C6DC-7D0C-4D06-AE6E-427320F8CA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E339C6DC-7D0C-4D06-AE6E-427320F8CA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E339C6DC-7D0C-4D06-AE6E-427320F8CA54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85379A1B-19CB-48E3-B4E7-7A8E9931343E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85379A1B-19CB-48E3-B4E7-7A8E9931343E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85379A1B-19CB-48E3-B4E7-7A8E9931343E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85379A1B-19CB-48E3-B4E7-7A8E9931343E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

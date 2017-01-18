@@ -1,0 +1,42 @@
+.search-container {
+  text-align: left;
+  width: 50%;
+  margin: 0 auto;
+}
+
+#search {
+  width: 100%;
+}
+
+.sort-order-container {
+  width: 50%;
+  margin: 10px auto 0 auto;
+  text-align: center;
+}
+
+.sort-order-container>div {
+  display: inline-block;
+  width: 45%;
+  text-align: left;
+}
+
+.sort-order-container>div:first-child {
+  margin-right: 10px;
+}
+
+table {
+  margin: 15px auto;
+}
+
+.container {
+  text-align: center;
+}
+
+tbody>tr:hover {
+  background-color: #f2f2f2;
+  cursor: pointer;
+}
+
+thead>tr>th {
+  padding: 10px;
+}

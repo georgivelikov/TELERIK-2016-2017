@@ -1,0 +1,39 @@
+<div class="container">
+  <div class="row row-centered">
+    <h2>{{pageTitle}}</h2>
+    <div class="search-container">
+      <label for="search">Search</label>
+      <input id="search" class="form-control" type="text" [(ngModel)]="searchPattern">
+    </div>
+    <div class="sort-order-container">
+      <div class="sort-container">
+        <label for="sort">Sort</label>
+        <select name="sort" id="sort" class="form-control" [(ngModel)]="sortedBy">
+          <option value="title">Title</option>
+          <option value="imdbRating">Rating</option>
+          <option value="releaseDate">Year</option>
+        </select>
+      </div>
+      <div class="order-container">
+        <label for="order">Order</label>
+        <select name="order" id="order" class="form-control" [(ngModel)]="listOrder">
+          <option value="ascending" selected>Ascending</option>
+          <option value="descending">Descending</option>
+        </select>
+      </div>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>Poster</th>
+          <th>Title</th>
+          <th>Year</th>
+          <th>IMDB Rating</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr mvdb-movie-short *ngFor="let movie of movies | movieFilter:searchPattern:listOrder:sortedBy" [movie]="movie"></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
