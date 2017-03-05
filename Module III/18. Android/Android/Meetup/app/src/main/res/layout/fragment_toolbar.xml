@@ -1,0 +1,17 @@
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:elevation="4dp"
+        android:background="@color/colorPrimary"
+        tools:context=".ui.fragment.ToolbarFragment">
+
+    <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            style="@style/AppTheme.ToolBar"/>
+
+</FrameLayout>

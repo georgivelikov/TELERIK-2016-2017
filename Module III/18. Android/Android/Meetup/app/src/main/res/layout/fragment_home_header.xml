@@ -1,0 +1,49 @@
+<LinearLayout
+        android:id="@+id/fragment_home_toolbar"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:clipToPadding="false"
+        android:background="@color/colorPrimary"
+        tools:context=".ui.fragment.ToolbarFragment">
+
+    <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            style="@style/AppTheme.ToolBar"
+            android:elevation="0dp"/>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="110dp"
+            android:orientation="vertical"
+            android:gravity="center_horizontal|top"
+            android:paddingStart="72dp"
+            android:paddingEnd="50dp"
+            android:paddingBottom="40dp">
+
+        <TextView
+                android:id="@+id/tv_location_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"
+                android:textColor="@color/tertiaryText"
+                android:ellipsize="end"
+                android:maxLines="1"/>
+
+        <TextView
+                android:id="@+id/tv_location_subtitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textColor="@color/quaternaryText"
+                android:ellipsize="end"
+                android:maxLines="2"/>
+
+    </LinearLayout>
+
+</LinearLayout>

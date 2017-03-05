@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_login_post">https://telerik-meetup.herokuapp.com/auth/login</string>
+    <string name="auth_register_post">https://telerik-meetup.herokuapp.com/auth/register</string>
+</resources>

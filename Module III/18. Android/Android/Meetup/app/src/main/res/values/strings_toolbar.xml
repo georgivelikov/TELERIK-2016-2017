@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_sign_in">Sign in</string>
+    <string name="nav_sign_up">Sign up</string>
+    <string name="nav_sign_out">Sign out</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_favorite_venues"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.telerikacademy.meetup.view.favorite_venues.FavoriteVenuesActivity">
+
+    <fragment
+            android:id="@+id/fragment_favorite_venues_toolbar"
+            android:name="com.telerikacademy.meetup.ui.fragment.ToolbarFragment"
+            android:layout_width="match_parent"
+            android:layout_height="?android:attr/actionBarSize"/>
+
+    <fragment
+            android:id="@+id/fragment_favorite_venues_content"
+            android:name="com.telerikacademy.meetup.view.favorite_venues.FavoriteVenuesContentFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+</LinearLayout>

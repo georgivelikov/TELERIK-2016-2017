@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context="com.telerikacademy.meetup.view.nearby_venues.NearbyVenuesContentFragment">
+
+    <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_nearby_venues"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:scrollbars="vertical"/>
+
+    <TextView
+            android:id="@+id/tv_empty"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:visibility="gone"
+            android:text="There are currently no places around"/>
+
+</FrameLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5B5151</color>
+    <color name="colorPrimaryDark">#3f3838</color>
+
+    <color name="colorPrimaryLight">#D7CCC8</color>
+    <color name="colorAccent">#F85151</color>
+
+    <color name="primaryText">#B3000000</color>
+    <color name="secondaryText">#757575</color>
+    <color name="tertiaryText">#FEFEFE</color>
+    <color name="quaternaryText">#e4e4e4</color>
+
+    <color name="icons">#757575</color>
+
+    <color name="colorBackground">#EFEFEF</color>
+    <color name="divider">#CCCCCC</color>
+
+    <color name="ratingBarBackground">#BDBDBD</color>
+</resources>

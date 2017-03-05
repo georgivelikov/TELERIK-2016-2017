@@ -1,0 +1,124 @@
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context="com.telerikacademy.meetup.view.home.HomeContentFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingStart="@dimen/activity_horizontal_margin"
+            android:paddingEnd="@dimen/activity_horizontal_margin"
+            android:paddingTop="40dp"
+            android:paddingBottom="@dimen/activity_vertical_margin">
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp">
+
+            <TextView
+                    android:id="@+id/tv_menu_header"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:text="@string/select_a_place"
+                    android:textStyle="bold"
+                    android:textColor="@color/secondaryText"
+                    android:textSize="16sp"/>
+
+            <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="1.2dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_toRightOf="@id/tv_menu_header"
+                    android:layout_alignBaseline="@id/tv_menu_header"
+                    android:background="@color/secondaryText"/>
+        </RelativeLayout>
+
+        <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:stretchColumns="*">
+
+            <TableRow>
+
+                <Button
+                        android:id="@+id/btn_restaurant"
+                        android:tag="restaurant"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/AppTheme.Button.Borderless"
+                        android:text="@string/restaurant"
+                        android:textAllCaps="false"
+                        android:drawableTop="@drawable/ic_solid_restaurant"
+                        android:drawablePadding="8dp"/>
+
+                <Button
+                        android:id="@+id/btn_cafe"
+                        android:tag="cafe"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/AppTheme.Button.Borderless"
+                        android:text="@string/cafe"
+                        android:textAllCaps="false"
+                        android:drawableTop="@drawable/ic_solid_coffee_mug"
+                        android:drawablePadding="8dp"/>
+
+                <Button
+                        android:id="@+id/btn_bar"
+                        android:tag="bar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/AppTheme.Button.Borderless"
+                        android:text="@string/bar"
+                        android:textAllCaps="false"
+                        android:drawableTop="@drawable/ic_solid_bar"
+                        android:drawablePadding="8dp"/>
+            </TableRow>
+
+            <TableRow>
+
+                <Button
+                        android:id="@+id/btn_casino"
+                        android:tag="casino"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/AppTheme.Button.Borderless"
+                        android:text="@string/casino"
+                        android:textAllCaps="false"
+                        android:drawableTop="@drawable/ic_solid_cards"
+                        android:drawablePadding="8dp"/>
+
+                <Button
+                        android:id="@+id/btn_night_club"
+                        android:tag="night_club"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/AppTheme.Button.Borderless"
+                        android:text="@string/night_club"
+                        android:textAllCaps="false"
+                        android:drawableTop="@drawable/ic_solid_night_club"
+                        android:drawablePadding="8dp"/>
+
+                <Button
+                        android:id="@+id/btn_other"
+                        android:tag="other"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/AppTheme.Button.Borderless"
+                        android:text="@string/other"
+                        android:textAllCaps="false"
+                        android:drawableTop="@drawable/ic_solid_bowling"
+                        android:drawablePadding="8dp"
+                        android:onClick="secretIntent"/>
+            </TableRow>
+
+        </TableLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

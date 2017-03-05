@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_location_dialog_title">Enable location?</string>
+    <string name="enable_location_dialog_positive">Yes</string>
+    <string name="enable_location_dialog_negative">No</string>
+
+    <string name="address">Address</string>
+    <string name="select_a_place">Select a place</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="cafe">Cafe</string>
+    <string name="bar">Bar</string>
+    <string name="casino">Casino</string>
+    <string name="night_club">Night club</string>
+    <string name="other">Other</string>
+    <string name="unknown_location">unknown</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_raised_elevation">2dp</dimen>
+
+    <dimen name="app_defaultsize_w">632.0dp</dimen>
+    <dimen name="app_defaultsize_h">598.0dp</dimen>
+    <dimen name="app_minimumsize_w">632.0dp</dimen>
+    <dimen name="app_minimumsize_h">598.0dp</dimen>
+</resources>

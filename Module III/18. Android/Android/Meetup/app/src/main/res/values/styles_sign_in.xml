@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SignInTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:editTextStyle">@style/SignInTheme.EditText</item>
+        <item name="android:buttonStyle">@style/SignInTheme.Button</item>
+        <item name="android:windowAnimationStyle">@style/SignInTheme.WindowAnimationTransition</item>
+    </style>
+
+    <style name="SignInTheme.EditText" parent="AppTheme.EditText">
+        <item name="android:textColor">#f0eded</item>
+    </style>
+
+    <style name="SignInTheme.TextInputLayout" parent="AppTheme">
+        <item name="android:textColorHint">#e1dbdb</item>
+        <item name="colorControlNormal">#e1dbdb</item>
+        <item name="colorControlActivated">#f0eded</item>
+    </style>
+
+    <style name="SignInTheme.Button" parent="AppTheme.Button">
+        <item name="android:textColor">#e1dbdb</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="SignInTheme.Button.Borderless" parent="AppTheme.Button.Borderless">
+        <item name="android:textColor">#e1dbdb</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="SignInTheme.WindowAnimationTransition">
+        <item name="android:activityOpenEnterAnimation">@anim/fade_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/fade_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/fade_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/fade_out</item>
+    </style>
+
+</resources>

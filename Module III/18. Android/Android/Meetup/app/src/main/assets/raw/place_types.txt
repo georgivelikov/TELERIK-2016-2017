@@ -1,0 +1,127 @@
+Accounting,1
+Administrative Area Level 1,1001
+Administrative Area Level 2,1002
+Administrative Area Level 3,1003
+Airport,2
+Amusement Park,3
+Aquarium,4
+Art Gallery,5
+Atm,6
+Bakery,7
+Bank,8
+Bar,9
+Beauty Salon,10
+Bicycle Store,11
+Book Store,12
+Bowling Alley,13
+Bus Station,14
+Cafe,15
+Campground,16
+Car Dealer,17
+Car Rental,18
+Car Repair,19
+Car Wash,20
+Casino,21
+Cemetery,22
+Church,23
+City Hall,24
+Clothing Store,25
+Colloquial Area,1004
+Convenience Store,26
+Country,1005
+Courthouse,27
+Dentist,28
+Department Store,29
+Doctor,30
+Electrician,31
+Electronics Store,32
+Embassy,33
+Establishment,34
+Finance,35
+Fire Station,36
+Floor,1006
+Florist,37
+Food,38
+Funeral Home,39
+Furniture Store,40
+Gas Station,41
+General Contractor,42
+Geocode,1007
+Grocery Or Supermarket,43
+Gym,44
+Hair Care,45
+Hardware Store,46
+Health,47
+Hindu Temple,48
+Home Goods Store,49
+Hospital,50
+Insurance Agency,51
+Intersection,1008
+Jewelry Store,52
+Laundry,53
+Lawyer,54
+Library,55
+Liquor Store,56
+Locality,1009
+Local Government Office,57
+Locksmith,58
+Lodging,59
+Meal Delivery,60
+Meal Takeaway,61
+Mosque,62
+Movie Rental,63
+Movie Theater,64
+Moving Company,65
+Museum,66
+Natural Feature,1010
+Neighborhood,1011
+Night Club,67
+Other,0
+Painter,68
+Park,69
+Parking,70
+Pet Store,71
+Pharmacy,72
+Physiotherapist,73
+Place Of Worship,74
+Plumber,75
+Point Of Interest,1013
+Police,76
+Political,1012
+Postal Code,1015
+Postal Code Prefix,1016
+Postal Town,1017
+Post Box,1014
+Post Office,77
+Premise,1018
+Real Estate Agency,78
+Restaurant,79
+Roofing Contractor,80
+Room,1019
+Route,1020
+Rv Park,81
+School,82
+Shoe Store,83
+Shopping Mall,84
+Spa,85
+Stadium,86
+Storage,87
+Store,88
+Street Address,1021
+Sublocality,1022
+Sublocality Level 1,1023
+Sublocality Level 2,1024
+Sublocality Level 3,1025
+Sublocality Level 4,1026
+Sublocality Level 5,1027
+Subpremise,1028
+Subway Station,89
+Synagogue,90
+Synthetic Geocode,1029
+Taxi Stand,91
+Train Station,92
+Transit Station,1030
+Travel Agency,93
+University,94
+Veterinary Care,95
+Zoo,96

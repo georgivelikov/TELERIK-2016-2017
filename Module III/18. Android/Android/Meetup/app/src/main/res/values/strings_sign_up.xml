@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_up_username">Username</string>
+    <string name="sign_up_password">Password</string>
+    <string name="create_account">Create account</string>
+    <string name="existing_username">Username already exists</string>
+    <string name="sign_up_successfull">Sign up successfull!</string>
+    <string name="sign_in_redirect">You may sign in now...</string>
+</resources>

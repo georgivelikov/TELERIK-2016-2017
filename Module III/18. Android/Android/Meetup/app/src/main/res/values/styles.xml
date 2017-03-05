@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:textViewStyle">@style/AppTheme.TextView</item>
+        <item name="android:buttonStyle">@style/AppTheme.Button</item>
+        <item name="android:editTextStyle">@style/AppTheme.EditText</item>
+        <item name="android:autoCompleteTextViewStyle">@style/AppTheme.AutoCompleteTextView</item>
+        <item name="android:windowAnimationStyle">@style/AppTheme.WindowAnimationTransition</item>
+    </style>
+
+    <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.Light">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="AppTheme.TextView" parent="android:Widget.TextView">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/secondaryText</item>
+    </style>
+
+    <style name="AppTheme.Button" parent="Base.Widget.AppCompat.Button">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/primaryText</item>
+    </style>
+
+    <style name="AppTheme.Button.Borderless" parent="Base.Widget.AppCompat.Button.Borderless">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/primaryText</item>
+    </style>
+
+    <style name="AppTheme.Button.RecentVenueButton" parent="Base.Widget.AppCompat.Button.Borderless">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/primaryText</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="AppTheme.Button.Colored" parent="Base.Widget.AppCompat.Button.Colored">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/tertiaryText</item>
+    </style>
+
+    <style name="AppTheme.Button.Borderless.Colored" parent="Base.Widget.AppCompat.Button.Borderless.Colored">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.EditText" parent="Base.Widget.AppCompat.EditText">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/primaryText</item>
+
+        <item name="colorControlNormal">#c5c5c5</item>
+        <item name="colorControlActivated">#c5c5c5</item>
+        <item name="colorControlHighlight">#c5c5c5</item>
+    </style>
+
+    <style name="AppTheme.EditText.V2" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/primaryText</item>
+        <item name="android:textColorHint">@color/secondaryText</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorControlNormal">@color/divider</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+    </style>
+
+    <style name="AppTheme.AutoCompleteTextView" parent="Base.Widget.AppCompat.AutoCompleteTextView">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/primaryText</item>
+    </style>
+
+    <style name="AppTheme.ToolBar">
+        <item name="theme">@style/AppTheme.ToolBarTheme</item>
+        <item name="popupTheme">@style/AppTheme.PopUpTheme</item>
+        <item name="android:elevation">4dp</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+    </style>
+
+    <style name="AppTheme.ToolBarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColorPrimary">@color/tertiaryText</item>
+        <item name="android:textColorSecondary">@color/tertiaryText</item>
+        <item name="android:background">@color/colorPrimary</item>
+    </style>
+
+    <style name="AppTheme.PopUpTheme" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">@color/primaryText</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+
+    <style name="AppTheme.FloatingActionButton" parent="Base.Widget.AppCompat.ImageButton">
+        <item name="android:tint">@color/tertiaryText</item>
+        <item name="elevation">@dimen/button_raised_elevation</item>
+    </style>
+
+    <style name="AppTheme.WindowAnimationTransition">
+        <item name="android:activityOpenEnterAnimation">@anim/fade_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/fade_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/fade_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/fade_out</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        tools:context="com.telerikacademy.meetup.view.home.HomeActivity"
+        android:id="@+id/activity_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scrollbars="none">
+
+            <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingBottom="@dimen/activity_vertical_margin">
+
+                <fragment
+                        android:id="@+id/fragment_home_header"
+                        android:name="com.telerikacademy.meetup.view.home.HomeHeaderFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+                <fragment
+                        android:id="@+id/fragment_home_content"
+                        android:name="com.telerikacademy.meetup.view.home.HomeContentFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+                <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingStart="@dimen/activity_horizontal_margin"
+                        android:paddingEnd="@dimen/activity_horizontal_margin">
+
+                    <TextView
+                            android:id="@+id/tv_recently_viewed"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:text="@string/recently_viewed"
+                            android:textStyle="bold"
+                            android:textColor="@color/secondaryText"
+                            android:textSize="16sp"/>
+
+                    <View
+                            android:layout_width="wrap_content"
+                            android:layout_height="1.2dp"
+                            android:layout_marginStart="10dp"
+                            android:layout_toRightOf="@id/tv_recently_viewed"
+                            android:layout_alignBaseline="@id/tv_recently_viewed"
+                            android:background="@color/secondaryText"/>
+
+                </RelativeLayout>
+
+                <fragment
+                        android:id="@+id/fragment_recent_venues"
+                        android:name="com.telerikacademy.meetup.ui.fragment.RecentVenuesFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+    <android.support.design.widget.FloatingActionButton
+            android:id="@+id/btn_update_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            app:borderWidth="0dp"
+            app:elevation="6dp"
+            android:clickable="true"
+            android:tint="#FEFEFE"
+            android:src="@drawable/ic_location_gps"
+            app:layout_anchor="@id/fragment_home_header"
+            app:layout_anchorGravity="bottom|right|end"/>
+
+</android.support.design.widget.CoordinatorLayout>
