@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{F8A51CD0-DAC5-4BB1-B5FC-1EA9C1854996}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{9735CE9E-DCAC-4985-B663-55A2E9F6879D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{C37BE841-D3FD-4BD9-AA72-BB3CEEE73B54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{9C9B7267-21B6-4A15-A8C9-5413BF94D53C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fancy.Web", "Fancy.Web\Fancy.Web.csproj", "{942F1FFD-5EB1-4134-B3D0-1928CE9D9D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{942F1FFD-5EB1-4134-B3D0-1928CE9D9D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942F1FFD-5EB1-4134-B3D0-1928CE9D9D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942F1FFD-5EB1-4134-B3D0-1928CE9D9D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942F1FFD-5EB1-4134-B3D0-1928CE9D9D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{942F1FFD-5EB1-4134-B3D0-1928CE9D9D4E} = {F8A51CD0-DAC5-4BB1-B5FC-1EA9C1854996}
+	EndGlobalSection
+EndGlobal
