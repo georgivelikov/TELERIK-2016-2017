@@ -24,8 +24,9 @@ namespace Fancy.Web
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/home-theme.css",
+                      "~/Content/silver-theme.css"
+                      ));
         }
     }
 }

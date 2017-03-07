@@ -77,7 +77,6 @@ D:\TELERIK\TELERIK-2016-2017\Module III\19. ASP MVC\Fancy\Fancy.Web\bin\Microsof
 D:\TELERIK\TELERIK-2016-2017\Module III\19. ASP MVC\Fancy\Fancy.Web\bin\Microsoft.Owin.Security.Google.xml
 D:\TELERIK\TELERIK-2016-2017\Module III\19. ASP MVC\Fancy\Fancy.Web\bin\Microsoft.Owin.Security.Twitter.xml
 D:\TELERIK\TELERIK-2016-2017\Module III\19. ASP MVC\Fancy\Fancy.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\TELERIK\TELERIK-2016-2017\Module III\19. ASP MVC\Fancy\Fancy.Web\obj\Debug\Fancy.Web.csprojResolveAssemblyReference.cache
 D:\TELERIK\TELERIK-2016-2017\Module III\19. ASP MVC\Fancy\Fancy.Web\obj\Debug\Fancy.Web.dll
 D:\TELERIK\TELERIK-2016-2017\Module III\19. ASP MVC\Fancy\Fancy.Web\obj\Debug\Fancy.Web.pdb
 D:\TELERIK\TELERIK-2016-2017\Module III\19. ASP MVC\Fancy\Fancy.Web\bin\Glimpse.Ado.dll
@@ -85,3 +84,4 @@ D:\TELERIK\TELERIK-2016-2017\Module III\19. ASP MVC\Fancy\Fancy.Web\bin\Glimpse.
 D:\TELERIK\TELERIK-2016-2017\Module III\19. ASP MVC\Fancy\Fancy.Web\bin\Glimpse.Core.dll
 D:\TELERIK\TELERIK-2016-2017\Module III\19. ASP MVC\Fancy\Fancy.Web\bin\Glimpse.EF6.dll
 D:\TELERIK\TELERIK-2016-2017\Module III\19. ASP MVC\Fancy\Fancy.Web\bin\Glimpse.Mvc5.dll
+D:\TELERIK\TELERIK-2016-2017\Module III\19. ASP MVC\Fancy\Fancy.Web\obj\Debug\Fancy.Web.csprojResolveAssemblyReference.cache
