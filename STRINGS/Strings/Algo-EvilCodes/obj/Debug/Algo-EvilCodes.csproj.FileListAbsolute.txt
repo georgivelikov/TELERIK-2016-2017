@@ -1,0 +1,5 @@
+D:\TELERIK\STRINGS\Strings\Algo-EvilCodes\bin\Debug\Algo-EvilCodes.exe.config
+D:\TELERIK\STRINGS\Strings\Algo-EvilCodes\bin\Debug\Algo-EvilCodes.exe
+D:\TELERIK\STRINGS\Strings\Algo-EvilCodes\bin\Debug\Algo-EvilCodes.pdb
+D:\TELERIK\STRINGS\Strings\Algo-EvilCodes\obj\Debug\Algo-EvilCodes.exe
+D:\TELERIK\STRINGS\Strings\Algo-EvilCodes\obj\Debug\Algo-EvilCodes.pdb

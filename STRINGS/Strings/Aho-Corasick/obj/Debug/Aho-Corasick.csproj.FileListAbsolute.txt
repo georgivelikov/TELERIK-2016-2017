@@ -1,0 +1,6 @@
+D:\TELERIK\STRINGS\Strings\Aho-Corasick\bin\Debug\Aho-Corasick.exe.config
+D:\TELERIK\STRINGS\Strings\Aho-Corasick\obj\Debug\Aho-Corasick.csprojResolveAssemblyReference.cache
+D:\TELERIK\STRINGS\Strings\Aho-Corasick\bin\Debug\Aho-Corasick.exe
+D:\TELERIK\STRINGS\Strings\Aho-Corasick\bin\Debug\Aho-Corasick.pdb
+D:\TELERIK\STRINGS\Strings\Aho-Corasick\obj\Debug\Aho-Corasick.exe
+D:\TELERIK\STRINGS\Strings\Aho-Corasick\obj\Debug\Aho-Corasick.pdb

@@ -1,0 +1,5 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Kruskal\bin\Debug\Kruskal.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Kruskal\bin\Debug\Kruskal.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Kruskal\bin\Debug\Kruskal.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Kruskal\obj\Debug\Kruskal.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Kruskal\obj\Debug\Kruskal.pdb

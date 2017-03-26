@@ -1,0 +1,8 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\VariationsWithoutRep\bin\Debug\VariationsWithoutRep.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\VariationsWithoutRep\bin\Debug\VariationsWithoutRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\VariationsWithoutRep\bin\Debug\VariationsWithoutRep.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\VariationsWithoutRep\obj\Debug\VariationsWithoutRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\VariationsWithoutRep\obj\Debug\VariationsWithoutRep.pdb
+D:\TELERIK\ALGORITHMS\VariationsWithoutRep\bin\Debug\VariationsWithoutRep.exe.config
+D:\TELERIK\ALGORITHMS\VariationsWithoutRep\obj\Debug\VariationsWithoutRep.exe
+D:\TELERIK\ALGORITHMS\VariationsWithoutRep\obj\Debug\VariationsWithoutRep.pdb

@@ -1,0 +1,12 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermatationsWithoutRep\bin\Debug\PermatationsWithoutRep.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermatationsWithoutRep\bin\Debug\PermatationsWithoutRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermatationsWithoutRep\bin\Debug\PermatationsWithoutRep.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermatationsWithoutRep\obj\Debug\PermatationsWithoutRep.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermatationsWithoutRep\obj\Debug\PermatationsWithoutRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermatationsWithoutRep\obj\Debug\PermatationsWithoutRep.pdb
+D:\TELERIK\ALGORITHMS\PermatationsWithoutRep\bin\Debug\PermatationsWithoutRep.exe.config
+D:\TELERIK\ALGORITHMS\PermatationsWithoutRep\obj\Debug\PermatationsWithoutRep.exe
+D:\TELERIK\ALGORITHMS\PermatationsWithoutRep\obj\Debug\PermatationsWithoutRep.pdb
+D:\TELERIK\ALGORITHMS\PermatationsWithoutRep\bin\Debug\PermatationsWithoutRep.exe
+D:\TELERIK\ALGORITHMS\PermatationsWithoutRep\bin\Debug\PermatationsWithoutRep.pdb
+D:\TELERIK\ALGORITHMS\PermatationsWithoutRep\obj\Debug\PermatationsWithoutRep.csprojResolveAssemblyReference.cache

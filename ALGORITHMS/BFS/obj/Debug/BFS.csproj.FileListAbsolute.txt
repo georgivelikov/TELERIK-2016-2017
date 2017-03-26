@@ -1,0 +1,6 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\BFS\bin\Debug\BFS.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\BFS\bin\Debug\BFS.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\BFS\bin\Debug\BFS.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\BFS\obj\Debug\BFS.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\Additional Courses\ALGORITHMS\BFS\obj\Debug\BFS.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\BFS\obj\Debug\BFS.pdb

@@ -1,0 +1,9 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Prim\bin\Debug\Prim.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Prim\obj\Debug\Prim.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Prim\bin\Debug\Prim.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Prim\bin\Debug\Prim.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Prim\obj\Debug\Prim.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Prim\obj\Debug\Prim.pdb
+D:\TELERIK\ALGORITHMS\Prim\bin\Debug\Prim.exe.config
+D:\TELERIK\ALGORITHMS\Prim\obj\Debug\Prim.exe
+D:\TELERIK\ALGORITHMS\Prim\obj\Debug\Prim.pdb

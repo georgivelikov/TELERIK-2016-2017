@@ -1,0 +1,3 @@
+D:\TELERIK\ALGORITHMS\DijkstraWithPriorityQueueAllPaths\bin\Debug\Problem05 - Friends of Pesho.exe.config
+D:\TELERIK\ALGORITHMS\DijkstraWithPriorityQueueAllPaths\obj\Debug\Problem05 - Friends of Pesho.exe
+D:\TELERIK\ALGORITHMS\DijkstraWithPriorityQueueAllPaths\obj\Debug\Problem05 - Friends of Pesho.pdb

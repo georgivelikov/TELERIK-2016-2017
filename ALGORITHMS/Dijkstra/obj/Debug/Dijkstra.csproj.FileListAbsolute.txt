@@ -1,0 +1,6 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Dijkstra\bin\Debug\Dijkstra.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Dijkstra\bin\Debug\Dijkstra.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Dijkstra\bin\Debug\Dijkstra.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Dijkstra\obj\Debug\Dijkstra.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Dijkstra\obj\Debug\Dijkstra.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Dijkstra\obj\Debug\Dijkstra.pdb

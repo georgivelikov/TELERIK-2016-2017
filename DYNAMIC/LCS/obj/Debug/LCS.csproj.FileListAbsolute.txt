@@ -1,0 +1,6 @@
+D:\SOFT UNI\Additional Courses\DYNAMIC\LCS\bin\Debug\LCS.exe.config
+D:\SOFT UNI\Additional Courses\DYNAMIC\LCS\bin\Debug\LCS.exe
+D:\SOFT UNI\Additional Courses\DYNAMIC\LCS\bin\Debug\LCS.pdb
+D:\SOFT UNI\Additional Courses\DYNAMIC\LCS\obj\Debug\LCS.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\Additional Courses\DYNAMIC\LCS\obj\Debug\LCS.exe
+D:\SOFT UNI\Additional Courses\DYNAMIC\LCS\obj\Debug\LCS.pdb

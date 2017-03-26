@@ -1,0 +1,5 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsWithRep\bin\Debug\PermutationsWithRep.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsWithRep\bin\Debug\PermutationsWithRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsWithRep\bin\Debug\PermutationsWithRep.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsWithRep\obj\Debug\PermutationsWithRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsWithRep\obj\Debug\PermutationsWithRep.pdb

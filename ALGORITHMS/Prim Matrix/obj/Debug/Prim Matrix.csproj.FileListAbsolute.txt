@@ -1,0 +1,5 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Prim Matrix\bin\Debug\Prim Matrix.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Prim Matrix\bin\Debug\Prim Matrix.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Prim Matrix\bin\Debug\Prim Matrix.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Prim Matrix\obj\Debug\Prim Matrix.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Prim Matrix\obj\Debug\Prim Matrix.pdb

@@ -1,0 +1,9 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\DFS\bin\Debug\DFS.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\DFS\bin\Debug\DFS.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\DFS\bin\Debug\DFS.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\DFS\obj\Debug\DFS.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\Additional Courses\ALGORITHMS\DFS\obj\Debug\DFS.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\DFS\obj\Debug\DFS.pdb
+D:\TELERIK\ALGORITHMS\DFS\bin\Debug\DFS.exe.config
+D:\TELERIK\ALGORITHMS\DFS\obj\Debug\DFS.exe
+D:\TELERIK\ALGORITHMS\DFS\obj\Debug\DFS.pdb

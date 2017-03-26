@@ -1,0 +1,5 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Knapsack\bin\Debug\Knapsack.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Knapsack\bin\Debug\Knapsack.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Knapsack\bin\Debug\Knapsack.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Knapsack\obj\Debug\Knapsack.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Knapsack\obj\Debug\Knapsack.pdb

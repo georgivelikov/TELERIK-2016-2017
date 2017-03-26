@@ -1,0 +1,6 @@
+D:\TELERIK\STRINGS\Strings\KMP\bin\Debug\KMP.exe.config
+D:\TELERIK\STRINGS\Strings\KMP\bin\Debug\KMP.exe
+D:\TELERIK\STRINGS\Strings\KMP\bin\Debug\KMP.pdb
+D:\TELERIK\STRINGS\Strings\KMP\obj\Debug\KMP.csprojResolveAssemblyReference.cache
+D:\TELERIK\STRINGS\Strings\KMP\obj\Debug\KMP.exe
+D:\TELERIK\STRINGS\Strings\KMP\obj\Debug\KMP.pdb

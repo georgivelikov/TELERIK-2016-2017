@@ -1,0 +1,11 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Aho-Corasick\bin\Debug\Aho-Corasick.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Aho-Corasick\bin\Debug\Aho-Corasick.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Aho-Corasick\bin\Debug\Aho-Corasick.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Aho-Corasick\obj\Debug\Aho-Corasick.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\Aho-Corasick\obj\Debug\Aho-Corasick.pdb
+D:\TELERIK\ALGORITHMS\Aho-Corasick\bin\Debug\Aho-Corasick.exe.config
+D:\TELERIK\ALGORITHMS\Aho-Corasick\obj\Debug\Aho-Corasick.exe
+D:\TELERIK\ALGORITHMS\Aho-Corasick\obj\Debug\Aho-Corasick.pdb
+D:\TELERIK\ALGORITHMS\Aho-Corasick\bin\Debug\Aho-Corasick.exe
+D:\TELERIK\ALGORITHMS\Aho-Corasick\bin\Debug\Aho-Corasick.pdb
+D:\TELERIK\ALGORITHMS\Aho-Corasick\obj\Debug\Aho-Corasick.csprojResolveAssemblyReference.cache

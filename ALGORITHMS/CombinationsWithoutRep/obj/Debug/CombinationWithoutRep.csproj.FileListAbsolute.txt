@@ -1,0 +1,5 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationWithoutRep\bin\Debug\CombinationWithoutRep.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationWithoutRep\bin\Debug\CombinationWithoutRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationWithoutRep\bin\Debug\CombinationWithoutRep.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationWithoutRep\obj\Debug\CombinationWithoutRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationWithoutRep\obj\Debug\CombinationWithoutRep.pdb

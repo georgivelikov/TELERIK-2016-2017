@@ -1,0 +1,5 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\AStar\bin\Debug\AStar.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\AStar\bin\Debug\AStar.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\AStar\bin\Debug\AStar.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\AStar\obj\Debug\AStar.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\AStar\obj\Debug\AStar.pdb

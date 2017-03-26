@@ -1,0 +1,5 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\KMP\bin\Debug\KMP.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\KMP\bin\Debug\KMP.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\KMP\bin\Debug\KMP.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\KMP\obj\Debug\KMP.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\KMP\obj\Debug\KMP.pdb

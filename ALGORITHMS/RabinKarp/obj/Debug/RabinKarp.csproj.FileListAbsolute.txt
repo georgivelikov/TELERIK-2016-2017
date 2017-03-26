@@ -1,0 +1,12 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\RabinKarp\bin\Debug\RabinKarp.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\RabinKarp\bin\Debug\RabinKarp.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\RabinKarp\bin\Debug\RabinKarp.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\RabinKarp\obj\Debug\RabinKarp.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\Additional Courses\ALGORITHMS\RabinKarp\obj\Debug\RabinKarp.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\RabinKarp\obj\Debug\RabinKarp.pdb
+D:\TELERIK\ALGORITHMS\RabinKarp\bin\Debug\RabinKarp.exe.config
+D:\TELERIK\ALGORITHMS\RabinKarp\obj\Debug\RabinKarp.exe
+D:\TELERIK\ALGORITHMS\RabinKarp\obj\Debug\RabinKarp.pdb
+D:\TELERIK\ALGORITHMS\RabinKarp\bin\Debug\RabinKarp.exe
+D:\TELERIK\ALGORITHMS\RabinKarp\bin\Debug\RabinKarp.pdb
+D:\TELERIK\ALGORITHMS\RabinKarp\obj\Debug\RabinKarp.csprojResolveAssemblyReference.cache

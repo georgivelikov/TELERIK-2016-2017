@@ -1,0 +1,6 @@
+D:\TELERIK\15. DSA\11. Graphs\Graphs Homework\Problem05 - Friends of Pesho\bin\Debug\Problem05 - Friends of Pesho.exe.config
+D:\TELERIK\15. DSA\11. Graphs\Graphs Homework\Problem05 - Friends of Pesho\obj\Debug\Problem05 - Friends of Pesho.csprojResolveAssemblyReference.cache
+D:\TELERIK\15. DSA\11. Graphs\Graphs Homework\Problem05 - Friends of Pesho\bin\Debug\Problem05 - Friends of Pesho.exe
+D:\TELERIK\15. DSA\11. Graphs\Graphs Homework\Problem05 - Friends of Pesho\bin\Debug\Problem05 - Friends of Pesho.pdb
+D:\TELERIK\15. DSA\11. Graphs\Graphs Homework\Problem05 - Friends of Pesho\obj\Debug\Problem05 - Friends of Pesho.exe
+D:\TELERIK\15. DSA\11. Graphs\Graphs Homework\Problem05 - Friends of Pesho\obj\Debug\Problem05 - Friends of Pesho.pdb

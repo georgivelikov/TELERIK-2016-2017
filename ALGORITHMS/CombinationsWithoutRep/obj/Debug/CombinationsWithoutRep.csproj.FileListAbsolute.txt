@@ -1,0 +1,10 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationsWithoutRep\bin\Debug\CombinationWithoutRep.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationsWithoutRep\obj\Debug\CombinationWithoutRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationsWithoutRep\obj\Debug\CombinationWithoutRep.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationsWithoutRep\bin\Debug\CombinationWithoutRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationsWithoutRep\bin\Debug\CombinationWithoutRep.pdb
+D:\TELERIK\ALGORITHMS\CombinationsWithoutRep\bin\Debug\CombinationWithoutRep.exe.config
+D:\TELERIK\ALGORITHMS\CombinationsWithoutRep\obj\Debug\CombinationWithoutRep.exe
+D:\TELERIK\ALGORITHMS\CombinationsWithoutRep\obj\Debug\CombinationWithoutRep.pdb
+D:\TELERIK\ALGORITHMS\CombinationsWithoutRep\bin\Debug\CombinationWithoutRep.exe
+D:\TELERIK\ALGORITHMS\CombinationsWithoutRep\bin\Debug\CombinationWithoutRep.pdb

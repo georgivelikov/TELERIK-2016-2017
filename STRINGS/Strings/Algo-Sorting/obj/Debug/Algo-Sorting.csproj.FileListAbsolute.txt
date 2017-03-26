@@ -1,0 +1,6 @@
+D:\TELERIK\STRINGS\Strings\Algo-Sorting\bin\Debug\Algo-Sorting.exe.config
+D:\TELERIK\STRINGS\Strings\Algo-Sorting\obj\Debug\Algo-Sorting.csprojResolveAssemblyReference.cache
+D:\TELERIK\STRINGS\Strings\Algo-Sorting\bin\Debug\Algo-Sorting.exe
+D:\TELERIK\STRINGS\Strings\Algo-Sorting\bin\Debug\Algo-Sorting.pdb
+D:\TELERIK\STRINGS\Strings\Algo-Sorting\obj\Debug\Algo-Sorting.exe
+D:\TELERIK\STRINGS\Strings\Algo-Sorting\obj\Debug\Algo-Sorting.pdb

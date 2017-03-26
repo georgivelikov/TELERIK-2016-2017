@@ -1,0 +1,6 @@
+D:\TELERIK\STRINGS\Strings\workshop-task\bin\Debug\workshop-task.exe.config
+D:\TELERIK\STRINGS\Strings\workshop-task\bin\Debug\workshop-task.exe
+D:\TELERIK\STRINGS\Strings\workshop-task\bin\Debug\workshop-task.pdb
+D:\TELERIK\STRINGS\Strings\workshop-task\obj\Debug\workshop-task.csprojResolveAssemblyReference.cache
+D:\TELERIK\STRINGS\Strings\workshop-task\obj\Debug\workshop-task.exe
+D:\TELERIK\STRINGS\Strings\workshop-task\obj\Debug\workshop-task.pdb

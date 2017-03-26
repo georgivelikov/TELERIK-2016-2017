@@ -1,0 +1,9 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\VariationsWithRep\bin\Debug\VariationsWithRep.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\VariationsWithRep\bin\Debug\VariationsWithRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\VariationsWithRep\bin\Debug\VariationsWithRep.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\VariationsWithRep\obj\Debug\VariationsWithRep.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\Additional Courses\ALGORITHMS\VariationsWithRep\obj\Debug\VariationsWithRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\VariationsWithRep\obj\Debug\VariationsWithRep.pdb
+D:\TELERIK\ALGORITHMS\VariationsWithRep\bin\Debug\VariationsWithRep.exe.config
+D:\TELERIK\ALGORITHMS\VariationsWithRep\obj\Debug\VariationsWithRep.exe
+D:\TELERIK\ALGORITHMS\VariationsWithRep\obj\Debug\VariationsWithRep.pdb

@@ -1,0 +1,5 @@
+D:\SOFT UNI\Additional Courses\DYNAMIC\Knapsack\bin\Debug\Knapsack.exe.config
+D:\SOFT UNI\Additional Courses\DYNAMIC\Knapsack\bin\Debug\Knapsack.exe
+D:\SOFT UNI\Additional Courses\DYNAMIC\Knapsack\bin\Debug\Knapsack.pdb
+D:\SOFT UNI\Additional Courses\DYNAMIC\Knapsack\obj\Debug\Knapsack.exe
+D:\SOFT UNI\Additional Courses\DYNAMIC\Knapsack\obj\Debug\Knapsack.pdb

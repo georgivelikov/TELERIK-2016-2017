@@ -1,0 +1,6 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\LIS\bin\Debug\LIS.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\LIS\bin\Debug\LIS.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\LIS\bin\Debug\LIS.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\LIS\obj\Debug\LIS.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\Additional Courses\ALGORITHMS\LIS\obj\Debug\LIS.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\LIS\obj\Debug\LIS.pdb

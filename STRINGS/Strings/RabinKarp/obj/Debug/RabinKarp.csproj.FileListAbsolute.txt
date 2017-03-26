@@ -1,0 +1,6 @@
+D:\TELERIK\STRINGS\Strings\RabinKarp\bin\Debug\RabinKarp.exe.config
+D:\TELERIK\STRINGS\Strings\RabinKarp\bin\Debug\RabinKarp.exe
+D:\TELERIK\STRINGS\Strings\RabinKarp\bin\Debug\RabinKarp.pdb
+D:\TELERIK\STRINGS\Strings\RabinKarp\obj\Debug\RabinKarp.csprojResolveAssemblyReference.cache
+D:\TELERIK\STRINGS\Strings\RabinKarp\obj\Debug\RabinKarp.exe
+D:\TELERIK\STRINGS\Strings\RabinKarp\obj\Debug\RabinKarp.pdb

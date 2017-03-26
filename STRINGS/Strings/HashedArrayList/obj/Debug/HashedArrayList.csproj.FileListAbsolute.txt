@@ -1,0 +1,1 @@
+D:\TELERIK\STRINGS\Strings\HashedArrayList\bin\Debug\HashedArrayList.exe.config

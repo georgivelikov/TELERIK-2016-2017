@@ -1,0 +1,8 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationsWithRep\bin\Debug\CombinationsWithRep.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationsWithRep\bin\Debug\CombinationsWithRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationsWithRep\bin\Debug\CombinationsWithRep.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationsWithRep\obj\Debug\CombinationsWithRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\CombinationsWithRep\obj\Debug\CombinationsWithRep.pdb
+D:\TELERIK\ALGORITHMS\CombinationsWithRep\bin\Debug\CombinationsWithRep.exe.config
+D:\TELERIK\ALGORITHMS\CombinationsWithRep\obj\Debug\CombinationsWithRep.exe
+D:\TELERIK\ALGORITHMS\CombinationsWithRep\obj\Debug\CombinationsWithRep.pdb

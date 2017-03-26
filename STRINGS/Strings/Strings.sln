@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMP", "KMP\KMP.csproj", "{A9FFBA7E-CABD-4AA3-96A0-32903616B65B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aho-Corasick", "Aho-Corasick\Aho-Corasick.csproj", "{4A490B2D-D3FF-426D-8D1A-452AF3243C56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashedArrayList", "HashedArrayList\HashedArrayList.csproj", "{39E12C00-0831-4F0B-A714-A3CBBAB2FD94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabinKarp", "RabinKarp\RabinKarp.csproj", "{3F019DFF-DB8D-4055-803E-0C0B78825B78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workshop-task", "workshop-task\workshop-task.csproj", "{F903FD79-9505-43A7-A39D-7C2A1FC0B773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algo-Sorting", "Algo-Sorting\Algo-Sorting.csproj", "{84BC1F0F-1DDC-427A-A047-503640B2BE4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algo-EvilCodes", "Algo-EvilCodes\Algo-EvilCodes.csproj", "{E3762D89-10AB-4422-982A-7E0ABA2B2087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9FFBA7E-CABD-4AA3-96A0-32903616B65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FFBA7E-CABD-4AA3-96A0-32903616B65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FFBA7E-CABD-4AA3-96A0-32903616B65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FFBA7E-CABD-4AA3-96A0-32903616B65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A490B2D-D3FF-426D-8D1A-452AF3243C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A490B2D-D3FF-426D-8D1A-452AF3243C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A490B2D-D3FF-426D-8D1A-452AF3243C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A490B2D-D3FF-426D-8D1A-452AF3243C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E12C00-0831-4F0B-A714-A3CBBAB2FD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E12C00-0831-4F0B-A714-A3CBBAB2FD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E12C00-0831-4F0B-A714-A3CBBAB2FD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E12C00-0831-4F0B-A714-A3CBBAB2FD94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F019DFF-DB8D-4055-803E-0C0B78825B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F019DFF-DB8D-4055-803E-0C0B78825B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F019DFF-DB8D-4055-803E-0C0B78825B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F019DFF-DB8D-4055-803E-0C0B78825B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F903FD79-9505-43A7-A39D-7C2A1FC0B773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F903FD79-9505-43A7-A39D-7C2A1FC0B773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F903FD79-9505-43A7-A39D-7C2A1FC0B773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F903FD79-9505-43A7-A39D-7C2A1FC0B773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BC1F0F-1DDC-427A-A047-503640B2BE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BC1F0F-1DDC-427A-A047-503640B2BE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BC1F0F-1DDC-427A-A047-503640B2BE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BC1F0F-1DDC-427A-A047-503640B2BE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3762D89-10AB-4422-982A-7E0ABA2B2087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3762D89-10AB-4422-982A-7E0ABA2B2087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3762D89-10AB-4422-982A-7E0ABA2B2087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3762D89-10AB-4422-982A-7E0ABA2B2087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+D:\TELERIK\ALGORITHMS\RVN and SY\bin\Debug\RVN and SY.exe.config
+D:\TELERIK\ALGORITHMS\RVN and SY\obj\Debug\RVN and SY.exe
+D:\TELERIK\ALGORITHMS\RVN and SY\obj\Debug\RVN and SY.pdb

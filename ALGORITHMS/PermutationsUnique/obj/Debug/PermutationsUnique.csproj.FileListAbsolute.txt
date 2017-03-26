@@ -1,0 +1,15 @@
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsWithRep\bin\Debug\PermutationsWithRep.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsWithRep\obj\Debug\PermutationsWithRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsWithRep\obj\Debug\PermutationsWithRep.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsUnique\bin\Debug\PermutationsWithRep.exe.config
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsUnique\obj\Debug\PermutationsWithRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsUnique\obj\Debug\PermutationsWithRep.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsUnique\bin\Debug\PermutationsWithRep.exe
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsUnique\bin\Debug\PermutationsWithRep.pdb
+D:\SOFT UNI\Additional Courses\ALGORITHMS\PermutationsUnique\obj\Debug\PermutationsUnique.csprojResolveAssemblyReference.cache
+D:\TELERIK\ALGORITHMS\PermutationsUnique\bin\Debug\PermutationsWithRep.exe.config
+D:\TELERIK\ALGORITHMS\PermutationsUnique\obj\Debug\PermutationsWithRep.exe
+D:\TELERIK\ALGORITHMS\PermutationsUnique\obj\Debug\PermutationsWithRep.pdb
+D:\TELERIK\ALGORITHMS\PermutationsUnique\bin\Debug\PermutationsWithRep.exe
+D:\TELERIK\ALGORITHMS\PermutationsUnique\bin\Debug\PermutationsWithRep.pdb
+D:\TELERIK\ALGORITHMS\PermutationsUnique\obj\Debug\PermutationsUnique.csprojResolveAssemblyReference.cache
